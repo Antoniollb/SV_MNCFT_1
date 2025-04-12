@@ -204,3 +204,16 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Apr2025 02:50:35.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff was slain by Mutant Skeleton
 [12Apr2025 02:51:48.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [The Most Useful Key]
 [12Apr2025 02:51:51.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [A Fast Comeback]
+[12Apr2025 03:06:54.115] [Worker-Main-29/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: dungeons_enhanced:bridge
+[12Apr2025 03:10:30.017] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[12Apr2025 03:10:30.018] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[12Apr2025 03:11:00.254] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.28.127.113:60425] logged in with entity id 24208 at (-1822.1069657173732, 63.0, 2515.707874714789)
+[12Apr2025 03:11:00.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
+[12Apr2025 03:11:01.859] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
+[12Apr2025 03:11:01.859] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[12Apr2025 03:11:08.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[12Apr2025 03:11:09.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[12Apr2025 03:11:09.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[12Apr2025 03:11:23.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Donde estan_
+[12Apr2025 03:11:35.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> MATANDO AL DRAGON
+[12Apr2025 03:11:45.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> me avisan cuando esten listo para ir
