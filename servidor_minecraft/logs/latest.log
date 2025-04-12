@@ -217,3 +217,23 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Apr2025 03:11:23.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Donde estan_
 [12Apr2025 03:11:35.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> MATANDO AL DRAGON
 [12Apr2025 03:11:45.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> me avisan cuando esten listo para ir
+[12Apr2025 03:12:00.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> YO TOY
+[12Apr2025 03:12:36.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Manuel tu tren donde esta_
+[12Apr2025 03:13:55.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=41, z=177} BlockPos{x=-74, y=41, z=177}
+[12Apr2025 03:17:10.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> NOS VAMOS¡?
+[12Apr2025 03:23:44.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Manuel
+[12Apr2025 03:23:56.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> YA?}
+[12Apr2025 03:24:03.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> ya
+[12Apr2025 03:24:09.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> OK
+[12Apr2025 03:24:33.194] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[12Apr2025 03:24:33.195] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[12Apr2025 03:24:45.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> voyyy
+[12Apr2025 03:25:45.189] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[12Apr2025 03:25:45.190] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[12Apr2025 03:25:47.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio froze to death
+[12Apr2025 03:25:47.189] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[12Apr2025 03:26:13.939] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[12Apr2025 03:26:13.940] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[12Apr2025 03:26:18.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster froze to death
+[12Apr2025 03:26:18.194] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[12Apr2025 03:27:07.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved too quickly! -13010.990278891182,-56.92159999847412,17579.85333239572

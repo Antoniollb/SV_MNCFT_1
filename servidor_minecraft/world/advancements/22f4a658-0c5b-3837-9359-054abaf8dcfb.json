@@ -4010,5 +4010,11 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-12 03:27:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
