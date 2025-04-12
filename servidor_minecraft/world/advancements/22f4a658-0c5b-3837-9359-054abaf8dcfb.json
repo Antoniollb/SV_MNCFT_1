@@ -1799,11 +1799,14 @@
       "twilight_oak_sign": "2025-03-30 22:57:53 +0000",
       "canopy_chest": "2025-03-25 02:48:10 +0000",
       "twilight_oak_stairs": "2025-03-31 00:04:04 +0000",
+      "encased_towerwood": "2025-04-12 04:11:37 +0000",
       "twilight_oak_slab": "2025-03-26 04:19:23 +0000",
+      "towerwood": "2025-04-12 04:11:31 +0000",
       "canopy_fence": "2025-03-28 04:14:39 +0000",
       "twilight_oak_log": "2025-03-23 22:36:09 +0000",
       "twilight_oak_wood": "2025-03-23 22:36:17 +0000",
-      "liveroot": "2025-03-29 04:40:34 +0000"
+      "liveroot": "2025-03-29 04:40:34 +0000",
+      "cracked_towerwood": "2025-04-12 04:11:31 +0000"
     },
     "done": false
   },
@@ -4010,9 +4013,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
+    "criteria": {
+      "has_item": "2025-04-12 04:11:31 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-04-12 03:27:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
+    "criteria": {
+      "has_item": "2025-04-12 04:11:31 +0000"
     },
     "done": true
   },
