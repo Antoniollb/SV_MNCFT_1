@@ -5330,6 +5330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-04-12 05:10:21 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/carminite_builder": {
     "criteria": {
       "has_item": "2025-04-12 04:38:42 +0000"
