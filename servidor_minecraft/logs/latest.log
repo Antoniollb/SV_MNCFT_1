@@ -265,3 +265,26 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Apr2025 04:41:58.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> antonio
 [12Apr2025 04:42:13.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to Antonio]
 [12Apr2025 04:42:44.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Something Strange in Towerwood]
+[12Apr2025 04:44:48.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Something Strange in Towerwood]
+[12Apr2025 04:48:30.965] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[12Apr2025 04:48:30.967] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[12Apr2025 04:48:36.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio froze to death
+[12Apr2025 04:48:36.198] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[12Apr2025 04:49:10.289] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[12Apr2025 04:49:10.290] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[12Apr2025 04:49:38.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> antonio tp
+[12Apr2025 04:49:53.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Mystery Meat?]
+[12Apr2025 04:50:07.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to MATTBXB]
+[12Apr2025 04:50:10.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff was slain by Spectral Wolf
+[12Apr2025 04:50:21.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to MATTBXB]
+[12Apr2025 04:50:52.192] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[12Apr2025 04:50:52.194] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[12Apr2025 04:51:09.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> ahora si dame tp
+[12Apr2025 04:51:18.192] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[12Apr2025 04:51:18.194] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[12Apr2025 04:51:20.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[12Apr2025 04:51:20.545] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[12Apr2025 04:51:39.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> antonio
+[12Apr2025 04:52:17.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> antonio dame tp
+[12Apr2025 04:52:29.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> estoy bien lejos
+[12Apr2025 04:52:37.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to DavidMaster]

@@ -3261,6 +3261,7 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
+      "experiment_115": "2025-04-12 04:49:53 +0000",
       "cooked_venison": "2025-03-24 02:20:17 +0000"
     },
     "done": false
@@ -5371,6 +5372,12 @@
     },
     "done": true
   },
+  "twilightforest:experiment_115": {
+    "criteria": {
+      "eat_experiment_115": "2025-04-12 04:49:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
     "criteria": {
       "has_item": "2025-04-12 04:40:30 +0000"
@@ -5380,6 +5387,18 @@
   "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
     "criteria": {
       "has_item": "2025-04-12 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-04-12 04:51:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2025-04-12 04:42:44 +0000"
     },
     "done": true
   },
