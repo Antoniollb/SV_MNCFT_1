@@ -178,3 +178,20 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Apr2025 01:58:40.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
 [12Apr2025 01:58:41.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
 [12Apr2025 01:58:41.839] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[12Apr2025 02:03:32.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.187.213.183:41811] logged in with entity id 2128 at (-1817.1525415277858, 64.0, 2528.8483647516764)
+[12Apr2025 02:03:32.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[12Apr2025 02:03:34.157] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[12Apr2025 02:03:34.158] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[12Apr2025 02:03:38.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[12Apr2025 02:03:39.171] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[12Apr2025 02:03:39.171] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
+[12Apr2025 02:18:26.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.28.127.113:36507] logged in with entity id 7484 at (-1822.9574079397812, 63.0, 2519.2865786448283)
+[12Apr2025 02:18:26.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
+[12Apr2025 02:18:27.645] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
+[12Apr2025 02:18:27.646] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[12Apr2025 02:18:34.558] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[12Apr2025 02:18:35.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[12Apr2025 02:18:35.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[12Apr2025 02:18:39.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[12Apr2025 02:18:39.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[12Apr2025 02:18:39.855] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster

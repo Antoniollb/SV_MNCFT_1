@@ -5260,21 +5260,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
-    "criteria": {
-      "coded_trigger": "2025-04-10 04:14:49 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/misc/material/smelted_knightmetal_ingot": {
     "criteria": {
       "has_item": "2025-04-10 03:25:43 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-04-10 04:14:26 +0000"
     },
     "done": true
   },
@@ -5287,6 +5275,48 @@
   "twilightforest:recipes/misc/compressed_blocks/reversed/knightmetal_block_ingot": {
     "criteria": {
       "has_item": "2025-04-10 04:09:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-04-10 04:14:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-04-10 04:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-12 02:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-04-12 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-12 02:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-12 02:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-12 02:22:27 +0000"
     },
     "done": true
   },
