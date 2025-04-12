@@ -2702,8 +2702,10 @@
     "criteria": {
       "twilight_oak_planks": "2025-03-23 22:37:33 +0000",
       "twilight_oak_stairs": "2025-03-25 21:03:19 +0000",
+      "encased_towerwood": "2025-04-12 04:14:55 +0000",
       "twilight_oak_trapdoor": "2025-03-25 03:20:35 +0000",
       "twilight_oak_slab": "2025-03-25 21:05:21 +0000",
+      "towerwood": "2025-04-12 04:14:55 +0000",
       "twilight_oak_log": "2025-03-23 22:36:36 +0000",
       "twilight_oak_wood": "2025-03-23 22:36:57 +0000",
       "twilight_oak_sapling": "2025-03-23 22:37:49 +0000",
@@ -4493,9 +4495,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
+    "criteria": {
+      "has_item": "2025-04-12 04:14:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-04-12 03:12:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
+    "criteria": {
+      "has_item": "2025-04-12 04:14:55 +0000"
     },
     "done": true
   },
