@@ -197,3 +197,8 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Apr2025 02:18:39.855] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
 [12Apr2025 02:34:55.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> no vamos?
 [12Apr2025 02:35:05.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> mi OROOO
+[12Apr2025 02:49:35.546] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[12Apr2025 02:49:35.558] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[12Apr2025 02:49:50.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> manuel me revives
+[12Apr2025 02:50:02.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> toy lejos
+[12Apr2025 02:50:35.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff was slain by Mutant Skeleton
