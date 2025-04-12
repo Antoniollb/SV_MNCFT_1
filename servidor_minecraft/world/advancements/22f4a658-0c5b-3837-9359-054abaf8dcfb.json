@@ -4013,6 +4013,24 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/compressed_blocks/carminite_block": {
+    "criteria": {
+      "has_item": "2025-04-12 04:23:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/carminite": {
+    "criteria": {
+      "has_item": "2025-04-12 04:23:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_builder": {
+    "criteria": {
+      "has_item": "2025-04-12 04:23:00 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
     "criteria": {
       "has_item": "2025-04-12 04:11:31 +0000"
@@ -4028,6 +4046,12 @@
   "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
     "criteria": {
       "has_item": "2025-04-12 04:11:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_reactor": {
+    "criteria": {
+      "has_item": "2025-04-12 04:23:00 +0000"
     },
     "done": true
   },

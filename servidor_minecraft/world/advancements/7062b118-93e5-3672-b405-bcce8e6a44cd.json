@@ -4489,6 +4489,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/vanishing_block": {
+    "criteria": {
+      "has_item": "2025-04-12 04:23:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/reappearing_block": {
+    "criteria": {
+      "has_item": "2025-04-12 04:23:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-04-12 03:12:00 +0000"
