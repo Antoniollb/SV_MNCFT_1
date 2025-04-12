@@ -237,3 +237,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Apr2025 03:26:18.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster froze to death
 [12Apr2025 03:26:18.194] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
 [12Apr2025 03:27:07.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved too quickly! -13010.990278891182,-56.92159999847412,17579.85333239572
+[12Apr2025 03:34:16.181] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[12Apr2025 03:34:16.183] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[12Apr2025 03:34:18.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster froze to death
+[12Apr2025 03:34:18.183] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved

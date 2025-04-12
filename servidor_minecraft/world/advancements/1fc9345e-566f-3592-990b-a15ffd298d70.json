@@ -3162,6 +3162,7 @@
       "twilight_oak_planks": "2025-03-24 02:40:41 +0000",
       "dark_planks": "2025-04-09 03:29:57 +0000",
       "twilight_oak_trapdoor": "2025-03-25 03:17:45 +0000",
+      "towerwood": "2025-04-12 03:34:35 +0000",
       "twilight_oak_log": "2025-03-23 22:37:12 +0000",
       "twilight_oak_wood": "2025-03-23 22:38:12 +0000",
       "dark_log": "2025-04-09 03:29:53 +0000",
@@ -5308,6 +5309,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
+    "criteria": {
+      "has_item": "2025-04-12 03:34:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-04-12 02:22:27 +0000"
@@ -5317,6 +5324,12 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2025-04-12 02:22:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
+    "criteria": {
+      "has_item": "2025-04-12 03:34:35 +0000"
     },
     "done": true
   },
