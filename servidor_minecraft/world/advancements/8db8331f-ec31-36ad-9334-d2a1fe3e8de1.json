@@ -629,6 +629,8 @@
     "criteria": {
       "twilight_oak_planks": "2025-04-05 03:30:05 +0000",
       "stripped_twilight_oak_log": "2025-04-05 03:28:38 +0000",
+      "encased_towerwood": "2025-04-12 04:40:23 +0000",
+      "towerwood": "2025-04-12 04:40:27 +0000",
       "twilight_oak_log": "2025-04-05 03:28:40 +0000",
       "twilight_oak_wood": "2025-04-05 03:56:53 +0000",
       "twilight_oak_sapling": "2025-04-05 03:28:41 +0000"
@@ -2033,9 +2035,10 @@
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "previous_progression": "2025-04-10 03:10:50 +0000"
+      "previous_progression": "2025-04-10 03:10:50 +0000",
+      "was_in_fight": "2025-04-12 04:40:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
@@ -2199,6 +2202,24 @@
     },
     "done": true
   },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "ur_ghast": "2025-04-12 04:40:06 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/material/carminite": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-12 04:39:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-04-12 02:33:28 +0000"
@@ -2229,6 +2250,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-04-12 02:33:28 +0000"
@@ -2250,6 +2277,12 @@
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-04-12 02:51:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:27 +0000"
     },
     "done": true
   },

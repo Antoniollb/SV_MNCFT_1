@@ -247,3 +247,21 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Apr2025 04:15:43.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> nuscando el camino
 [12Apr2025 04:22:40.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Ya llegaron
 [12Apr2025 04:25:49.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> ya llegaron
+[12Apr2025 04:37:23.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to DavidMaster]
+[12Apr2025 04:37:46.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to MATTBXB]
+[12Apr2025 04:38:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to MATTBXB]
+[12Apr2025 04:38:10.182] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[12Apr2025 04:38:10.183] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[12Apr2025 04:38:12.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster froze to death
+[12Apr2025 04:38:12.184] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[12Apr2025 04:40:01.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Something Strange in Towerwood]
+[12Apr2025 04:40:06.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Tears of Fire]
+[12Apr2025 04:40:06.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Tears of Fire]
+[12Apr2025 04:40:06.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Tears of Fire]
+[12Apr2025 04:40:06.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Tears of Fire]
+[12Apr2025 04:41:27.939] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[12Apr2025 04:41:27.942] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[12Apr2025 04:41:28.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> antoni dame tp
+[12Apr2025 04:41:58.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> antonio
+[12Apr2025 04:42:13.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to Antonio]
+[12Apr2025 04:42:44.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Something Strange in Towerwood]

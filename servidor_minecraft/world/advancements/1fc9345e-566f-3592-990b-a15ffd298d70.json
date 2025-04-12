@@ -5246,9 +5246,10 @@
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "previous_progression": "2025-04-10 03:10:50 +0000"
+      "previous_progression": "2025-04-10 03:10:50 +0000",
+      "was_in_fight": "2025-04-12 04:40:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
     "criteria": {
@@ -5292,9 +5293,45 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_boots": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "ur_ghast": "2025-04-12 04:40:06 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/carminite_block": {
+    "criteria": {
+      "has_item": "2025-04-12 04:38:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-04-12 02:22:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_builder": {
+    "criteria": {
+      "has_item": "2025-04-12 04:38:42 +0000"
     },
     "done": true
   },
@@ -5316,6 +5353,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-04-12 02:22:27 +0000"
@@ -5328,9 +5371,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:30 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
     "criteria": {
       "has_item": "2025-04-12 03:34:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_reactor": {
+    "criteria": {
+      "has_item": "2025-04-12 04:38:42 +0000"
     },
     "done": true
   },

@@ -4003,15 +4003,34 @@
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "previous_progression": "2025-04-10 03:11:06 +0000"
+      "previous_progression": "2025-04-10 03:11:06 +0000",
+      "was_in_fight": "2025-04-12 04:40:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2025-04-10 04:10:59 +0000"
     },
     "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_boots": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/ur_ghast_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-12 04:40:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "ur_ghast": "2025-04-12 04:40:06 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/building_blocks/compressed_blocks/carminite_block": {
     "criteria": {
@@ -4022,6 +4041,18 @@
   "twilightforest:recipes/misc/material/carminite": {
     "criteria": {
       "has_item": "2025-04-12 04:23:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:28 +0000"
     },
     "done": true
   },
@@ -4037,9 +4068,39 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:28 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-04-12 03:27:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2025-04-12 04:40:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:28 +0000"
     },
     "done": true
   },
