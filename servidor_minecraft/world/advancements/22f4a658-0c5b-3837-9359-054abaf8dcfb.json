@@ -4142,6 +4142,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-13 05:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-04-13 02:37:58 +0000"
