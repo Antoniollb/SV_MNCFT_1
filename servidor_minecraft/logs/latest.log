@@ -187,3 +187,8 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [13Apr2025 02:43:55.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Antonio si viene para la granja de exp traeme un libro de reparacion
 [13Apr2025 02:44:00.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> te lo pago aqui
 [13Apr2025 02:50:11.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/6030, l='ServerLevel[world]', x=-214.23, y=79.00, z=307.96] died, message: 'Fletcher went up in flames'
+[13Apr2025 03:03:01.702] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[13Apr2025 03:03:01.702] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[13Apr2025 03:03:17.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio burned to death
+[13Apr2025 03:06:33.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[13Apr2025 03:10:34.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Planting the Past]

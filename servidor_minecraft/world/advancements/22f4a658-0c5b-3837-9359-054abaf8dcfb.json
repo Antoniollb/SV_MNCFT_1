@@ -4146,6 +4146,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_any_sniffer_seed": {
+    "criteria": {
+      "torchflower": "2025-04-13 03:10:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-04-13 02:37:58 +0000"
