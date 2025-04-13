@@ -203,3 +203,6 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [13Apr2025 04:05:02.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> aYUDA
 [13Apr2025 04:05:49.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Antonio
 [13Apr2025 04:05:54.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster burned to death
+[13Apr2025 04:25:09.171] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[13Apr2025 04:25:09.179] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[13Apr2025 04:25:17.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster was slain by Zombie
