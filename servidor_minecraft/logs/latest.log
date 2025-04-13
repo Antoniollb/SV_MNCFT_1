@@ -218,3 +218,11 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [13Apr2025 05:17:32.415] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
 [13Apr2025 05:17:32.420] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
 [13Apr2025 05:28:31.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster moved wrongly!
+[13Apr2025 05:32:24.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Voluntary Exile]
+[13Apr2025 05:34:25.072] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[13Apr2025 05:34:25.077] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[13Apr2025 05:34:27.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[13Apr2025 05:34:27.274] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[13Apr2025 05:36:26.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/53893, l='ServerLevel[world]', x=-1889.50, y=74.00, z=2566.22] died, message: 'Weaponsmith was shot by Pillager'
+[13Apr2025 05:38:43.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has completed the challenge [Village Defender]
+[13Apr2025 05:40:00.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has completed the challenge [Hero of the Village]

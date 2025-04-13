@@ -216,6 +216,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-13 05:30:24 +0000",
       "minecraft:skeleton": "2025-03-22 05:02:20 +0000",
       "minecraft:vindicator": "2025-03-27 03:24:10 +0000",
       "minecraft:spider": "2025-03-22 04:25:34 +0000",
@@ -4126,6 +4127,12 @@
   "mutantmonsters:you_da_bomby": {
     "criteria": {
       "tamed_creeper_minion": "2025-04-13 02:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-13 05:32:24 +0000"
     },
     "done": true
   },
