@@ -217,3 +217,4 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [13Apr2025 05:16:19.422] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
 [13Apr2025 05:17:32.415] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
 [13Apr2025 05:17:32.420] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[13Apr2025 05:28:31.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster moved wrongly!
