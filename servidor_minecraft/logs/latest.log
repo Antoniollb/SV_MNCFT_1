@@ -226,3 +226,35 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [13Apr2025 05:36:26.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/53893, l='ServerLevel[world]', x=-1889.50, y=74.00, z=2566.22] died, message: 'Weaponsmith was shot by Pillager'
 [13Apr2025 05:38:43.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has completed the challenge [Village Defender]
 [13Apr2025 05:40:00.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has completed the challenge [Hero of the Village]
+[13Apr2025 05:54:09.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster moved too quickly! -1.591032619833868,2.2531999805212024,9.843931717456144
+[13Apr2025 05:56:59.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[13Apr2025 05:56:59.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[13Apr2025 05:56:59.076] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
+[13Apr2025 05:56:59.124] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Apr2025 05:57:11.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.28.127.113:55887] logged in with entity id 61641 at (-1894.3740237476493, 66.0, 2519.5347084732466)
+[13Apr2025 05:57:11.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
+[13Apr2025 05:57:11.527] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
+[13Apr2025 05:57:11.527] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[13Apr2025 05:57:16.318] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[13Apr2025 05:57:17.320] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[13Apr2025 05:57:17.321] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[13Apr2025 05:58:23.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[13Apr2025 05:58:23.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[13Apr2025 05:58:23.875] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
+[13Apr2025 05:58:25.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Disconnected
+[13Apr2025 05:58:25.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[13Apr2025 05:58:25.270] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[13Apr2025 05:59:05.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Apr2025 05:59:05.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Apr2025 05:59:05.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Apr2025 05:59:05.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Apr2025 05:59:06.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Apr2025 05:59:07.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Apr2025 05:59:07.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[13Apr2025 05:59:07.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Apr2025 05:59:07.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Apr2025 05:59:07.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Apr2025 05:59:07.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[13Apr2025 05:59:07.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Apr2025 05:59:07.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Apr2025 05:59:07.372] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

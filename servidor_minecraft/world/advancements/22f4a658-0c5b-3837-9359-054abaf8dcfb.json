@@ -4118,33 +4118,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/soul_eater": {
-    "criteria": {
-      "coded_trigger": "2025-04-13 04:46:17 +0000"
-    },
-    "done": true
-  },
-  "mutantmonsters:you_da_bomby": {
-    "criteria": {
-      "tamed_creeper_minion": "2025-04-13 02:38:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-04-13 05:32:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-04-13 02:37:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-04-13 05:40:00 +0000"
     },
     "done": true
   },
@@ -4166,15 +4142,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-04-13 02:37:58 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:you_da_bomby": {
+    "criteria": {
+      "tamed_creeper_minion": "2025-04-13 02:38:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_any_sniffer_seed": {
     "criteria": {
       "torchflower": "2025-04-13 03:10:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "tombstone:adventure/soul_eater": {
     "criteria": {
-      "has_minecart": "2025-04-13 02:37:58 +0000"
+      "coded_trigger": "2025-04-13 04:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-13 05:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-13 05:40:00 +0000"
     },
     "done": true
   },
