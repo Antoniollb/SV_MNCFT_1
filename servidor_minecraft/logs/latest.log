@@ -192,3 +192,4 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [13Apr2025 03:03:17.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio burned to death
 [13Apr2025 03:06:33.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [13Apr2025 03:10:34.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Planting the Past]
+[13Apr2025 03:27:21.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [An adventure awaits you]
