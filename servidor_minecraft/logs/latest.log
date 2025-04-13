@@ -186,3 +186,4 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [13Apr2025 02:43:04.544] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
 [13Apr2025 02:43:55.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Antonio si viene para la granja de exp traeme un libro de reparacion
 [13Apr2025 02:44:00.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> te lo pago aqui
+[13Apr2025 02:50:11.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/6030, l='ServerLevel[world]', x=-214.23, y=79.00, z=307.96] died, message: 'Fletcher went up in flames'
