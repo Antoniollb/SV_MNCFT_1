@@ -198,3 +198,8 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [13Apr2025 03:38:57.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [The treasure is at hand]
 [13Apr2025 03:42:18.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [The trip ends but the adventure begins]
 [13Apr2025 03:42:19.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2631ms or 52 ticks behind
+[13Apr2025 04:04:54.679] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[13Apr2025 04:04:54.680] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[13Apr2025 04:05:02.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> aYUDA
+[13Apr2025 04:05:49.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Antonio
+[13Apr2025 04:05:54.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster burned to death
