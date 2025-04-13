@@ -208,3 +208,12 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [13Apr2025 04:25:17.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster was slain by Zombie
 [13Apr2025 04:37:08.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Sneak 100]
 [13Apr2025 04:46:17.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has completed the challenge [Soul Eater]
+[13Apr2025 05:13:01.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster moved wrongly!
+[13Apr2025 05:13:20.019] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[13Apr2025 05:13:20.024] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[13Apr2025 05:16:05.651] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[13Apr2025 05:16:05.652] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[13Apr2025 05:16:19.420] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[13Apr2025 05:16:19.422] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[13Apr2025 05:17:32.415] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[13Apr2025 05:17:32.420] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
