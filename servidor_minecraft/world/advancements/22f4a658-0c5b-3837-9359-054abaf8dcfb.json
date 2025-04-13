@@ -4014,15 +4014,51 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/fiery_fiery_boots": {
+  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
     "criteria": {
-      "has_item": "2025-04-12 04:40:28 +0000"
+      "has_trophy": "2025-04-12 03:27:54 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/misc/ur_ghast_banner_pattern": {
+  "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
     "criteria": {
-      "has_trophy": "2025-04-12 04:40:27 +0000"
+      "has_item": "2025-04-12 04:11:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
+    "criteria": {
+      "has_item": "2025-04-12 04:11:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/carminite_block": {
+    "criteria": {
+      "has_item": "2025-04-12 04:23:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_builder": {
+    "criteria": {
+      "has_item": "2025-04-12 04:23:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_reactor": {
+    "criteria": {
+      "has_item": "2025-04-12 04:23:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/carminite": {
+    "criteria": {
+      "has_item": "2025-04-12 04:23:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2025-04-12 04:40:01 +0000"
     },
     "done": true
   },
@@ -4032,15 +4068,15 @@
     },
     "done": false
   },
-  "twilightforest:recipes/building_blocks/compressed_blocks/carminite_block": {
+  "twilightforest:recipes/misc/ur_ghast_banner_pattern": {
     "criteria": {
-      "has_item": "2025-04-12 04:23:00 +0000"
+      "has_trophy": "2025-04-12 04:40:27 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/misc/material/carminite": {
+  "twilightforest:recipes/combat/equipment/fiery_fiery_boots": {
     "criteria": {
-      "has_item": "2025-04-12 04:23:24 +0000"
+      "has_item": "2025-04-12 04:40:28 +0000"
     },
     "done": true
   },
@@ -4056,18 +4092,6 @@
     },
     "done": true
   },
-  "twilightforest:recipes/redstone/carminite_builder": {
-    "criteria": {
-      "has_item": "2025-04-12 04:23:00 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
-    "criteria": {
-      "has_item": "2025-04-12 04:11:31 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
     "criteria": {
       "has_item": "2025-04-12 04:40:28 +0000"
@@ -4080,21 +4104,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-04-12 03:27:54 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
     "criteria": {
       "has_item": "2025-04-12 04:40:28 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:ghast_trap": {
-    "criteria": {
-      "activate_ghast_trap": "2025-04-12 04:40:01 +0000"
     },
     "done": true
   },
@@ -4104,15 +4116,39 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
+  "mutantmonsters:you_da_bomby": {
     "criteria": {
-      "has_item": "2025-04-12 04:11:31 +0000"
+      "tamed_creeper_minion": "2025-04-13 02:38:32 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/redstone/carminite_reactor": {
+  "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
-      "has_item": "2025-04-12 04:23:00 +0000"
+      "has_minecart": "2025-04-13 02:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-13 02:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-13 02:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-13 02:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-04-13 02:37:58 +0000"
     },
     "done": true
   },

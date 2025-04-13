@@ -176,3 +176,13 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [13Apr2025 02:27:17.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
 [13Apr2025 02:27:18.199] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
 [13Apr2025 02:27:18.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[13Apr2025 02:38:32.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [You da Bomby]
+[13Apr2025 02:42:53.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.187.213.183:45571] logged in with entity id 3883 at (-1847.7185876571968, 61.8174405104378, 2528.406021272522)
+[13Apr2025 02:42:53.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
+[13Apr2025 02:42:55.109] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
+[13Apr2025 02:42:55.110] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[13Apr2025 02:43:03.550] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[13Apr2025 02:43:04.544] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[13Apr2025 02:43:04.544] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[13Apr2025 02:43:55.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Antonio si viene para la granja de exp traeme un libro de reparacion
+[13Apr2025 02:44:00.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> te lo pago aqui
