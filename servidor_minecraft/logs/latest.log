@@ -193,3 +193,6 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [13Apr2025 03:06:33.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [13Apr2025 03:10:34.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Planting the Past]
 [13Apr2025 03:27:21.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [An adventure awaits you]
+[13Apr2025 03:37:10.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-218, y=50, z=492} BlockPos{x=-218, y=51, z=493}
+[13Apr2025 03:37:10.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-218, y=50, z=492} BlockPos{x=-218, y=51, z=493}
+[13Apr2025 03:38:57.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [The treasure is at hand]
