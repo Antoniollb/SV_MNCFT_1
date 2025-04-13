@@ -169,3 +169,10 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [13Apr2025 02:09:02.946] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [13Apr2025 02:09:02.960] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'core-cocktail.gl.at.ply.gg:1863'
 [13Apr2025 02:09:02.961] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[13Apr2025 02:27:08.913] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.28.127.113:59231] logged in with entity id 424 at (-1837.5445297847143, 63.0, 2525.499043899782)
+[13Apr2025 02:27:08.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
+[13Apr2025 02:27:10.533] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
+[13Apr2025 02:27:10.535] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[13Apr2025 02:27:17.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[13Apr2025 02:27:18.199] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[13Apr2025 02:27:18.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
