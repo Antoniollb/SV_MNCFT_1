@@ -4241,5 +4241,11 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-14 03:39:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

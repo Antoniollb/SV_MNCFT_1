@@ -332,3 +332,14 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 03:17:42.374] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
 [14Apr2025 03:20:37.169] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
 [14Apr2025 03:20:37.172] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 03:22:08.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Mighty Stroganoff]
+[14Apr2025 03:22:14.121] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[14Apr2025 03:22:14.128] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 03:23:36.822] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[14Apr2025 03:23:36.824] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 03:26:08.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> ven para donde estoy yo
+[14Apr2025 03:27:30.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to Antonio]
+[14Apr2025 03:27:45.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to MATTBXB]
+[14Apr2025 03:34:03.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> aqui
+[14Apr2025 03:34:08.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> lluberis
+[14Apr2025 03:37:56.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> [name:"aaa", x:-16138, y:-23, z:18926, dim:twilightforest:twilight_forest]
