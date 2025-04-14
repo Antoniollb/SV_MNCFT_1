@@ -2099,6 +2099,7 @@
       "raw_meef": "2025-04-14 02:54:14 +0000",
       "raw_venison": "2025-03-24 03:20:48 +0000",
       "meef_stroganoff": "2025-04-14 02:58:31 +0000",
+      "cooked_meef": "2025-04-14 04:48:27 +0000",
       "cooked_venison": "2025-03-30 22:41:36 +0000"
     },
     "done": false
@@ -4240,6 +4241,48 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-04-14 02:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-04-14 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-04-14 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-04-14 04:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-04-14 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/hydra_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-14 04:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-04-14 04:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-04-14 04:36:48 +0000"
     },
     "done": true
   },

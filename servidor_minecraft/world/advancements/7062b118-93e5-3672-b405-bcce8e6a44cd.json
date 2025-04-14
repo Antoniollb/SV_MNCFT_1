@@ -4696,9 +4696,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-04-14 04:37:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
     "criteria": {
       "has_item": "2025-04-14 03:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-04-14 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-04-14 04:37:32 +0000"
     },
     "done": true
   },
@@ -4707,6 +4725,12 @@
       "previous_progression": "2025-04-14 04:23:58 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-04-14 04:37:32 +0000"
+    },
+    "done": true
   },
   "twilightforest:progress_hydra": {
     "criteria": {
@@ -4739,6 +4763,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/hydra_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-14 04:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-04-14 04:37:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/food/food/campfired_meef": {
     "criteria": {
       "has_food": "2025-04-14 02:40:05 +0000"
@@ -4748,6 +4784,12 @@
   "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
     "criteria": {
       "has_item": "2025-04-14 04:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-04-14 04:37:32 +0000"
     },
     "done": true
   },

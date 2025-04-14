@@ -1864,9 +1864,10 @@
   },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2025-04-08 03:33:27 +0000"
+      "previous_progression": "2025-04-08 03:33:27 +0000",
+      "trophy": "2025-04-14 04:48:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
     "criteria": {
@@ -2286,9 +2287,11 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
+      "hydra": "2025-04-14 04:39:11 +0000",
+      "snow_queen": "2025-04-14 04:48:59 +0000",
       "ur_ghast": "2025-04-12 04:40:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
     "criteria": {
@@ -2332,11 +2335,18 @@
     },
     "done": true
   },
-  "twilightforest:progress_hydra": {
+  "twilightforest:progress_troll": {
     "criteria": {
-      "stroganoff": "2025-04-14 04:16:14 +0000"
+      "previous_progression": "2025-04-14 04:48:59 +0000"
     },
     "done": false
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "trophy": "2025-04-14 04:39:11 +0000",
+      "stroganoff": "2025-04-14 04:16:14 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
@@ -2368,6 +2378,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/hydra_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-14 04:39:11 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/food/food/campfired_meef": {
     "criteria": {
       "has_food": "2025-04-14 03:22:34 +0000"
@@ -2389,6 +2405,12 @@
   "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
     "criteria": {
       "has_item": "2025-04-14 04:24:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-14 04:48:59 +0000"
     },
     "done": true
   },

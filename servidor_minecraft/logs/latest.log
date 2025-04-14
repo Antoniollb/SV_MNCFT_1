@@ -390,3 +390,33 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 04:23:58.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Hydra Slayer]
 [14Apr2025 04:23:58.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Hydra Slayer]
 [14Apr2025 04:23:58.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Ultimate Showdown]
+[14Apr2025 04:36:29.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Zabiel y yo no podemos psar
+[14Apr2025 04:39:11.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Hydra Slayer]
+[14Apr2025 04:40:43.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2870ms or 57 ticks behind
+[14Apr2025 04:40:55.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
+[14Apr2025 04:41:07.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to Antonio]
+[14Apr2025 04:41:13.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported MATTBXB to Antonio]
+[14Apr2025 04:41:14.483] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[14Apr2025 04:41:14.484] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[14Apr2025 04:41:32.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Timed out
+[14Apr2025 04:41:32.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
+[14Apr2025 04:41:32.981] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
+[14Apr2025 04:41:44.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.187.213.183:33821] logged in with entity id 78995 at (-1888.699999988079, 65.0, 2518.699999988079)
+[14Apr2025 04:41:44.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[14Apr2025 04:41:45.183] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[14Apr2025 04:41:45.184] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[14Apr2025 04:41:50.718] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[14Apr2025 04:41:51.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[14Apr2025 04:41:51.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
+[14Apr2025 04:44:55.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Set own game mode to Creative Mode]
+[14Apr2025 04:48:47.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Clear Skies]
+[14Apr2025 04:48:47.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Ultimate Showdown]
+[14Apr2025 04:48:59.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Clear Skies]
+[14Apr2025 04:48:59.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Ultimate Showdown]
+[14Apr2025 04:49:09.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Set own game mode to Survival Mode]
+[14Apr2025 04:51:18.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster moved too quickly! -13010.117834107008,-56.92159999847412,17578.896323395762
+[14Apr2025 04:51:19.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved too quickly! -13010.532578989709,-56.67647087614428,17579.62138658077
+[14Apr2025 04:51:26.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved too quickly! 13011.116665836827,57.07840000152588,-17582.17276010279
+[14Apr2025 04:51:55.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff moved too quickly! -13010.628949929796,-56.92159999847412,17578.983116665844
+[14Apr2025 04:52:11.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Clear Skies]
+[14Apr2025 04:52:11.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Ultimate Showdown]
