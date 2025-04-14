@@ -4686,5 +4686,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-04-14 01:57:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_lost_tablet_village": {
+    "criteria": {
+      "coded_trigger": "2025-04-14 02:03:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

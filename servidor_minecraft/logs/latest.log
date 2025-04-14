@@ -191,3 +191,34 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 01:57:54.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has completed the challenge [It Spreads]
 [14Apr2025 01:59:19.526] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
 [14Apr2025 01:59:19.532] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[14Apr2025 01:59:27.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Sneak 100]
+[14Apr2025 01:59:39.623] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[14Apr2025 01:59:39.627] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[14Apr2025 02:00:22.021] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[14Apr2025 02:00:22.026] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[14Apr2025 02:00:54.420] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[14Apr2025 02:00:54.424] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[14Apr2025 02:01:04.771] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[14Apr2025 02:01:04.775] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[14Apr2025 02:01:24.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB was slain by Warden
+[14Apr2025 02:01:31.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Discreet Search]
+[14Apr2025 02:01:52.521] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[14Apr2025 02:01:52.526] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[14Apr2025 02:02:13.674] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[14Apr2025 02:02:13.678] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[14Apr2025 02:03:35.073] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[14Apr2025 02:03:35.077] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[14Apr2025 02:03:47.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [A new home]
+[14Apr2025 02:03:47.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2710ms or 54 ticks behind
+[14Apr2025 02:03:50.721] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[14Apr2025 02:03:50.725] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[14Apr2025 02:07:37.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has completed the challenge [It Spreads]
+[14Apr2025 02:08:02.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.155.88.47:46907] logged in with entity id 4584 at (-1913.5336581961703, 63.0, 2527.506916785573)
+[14Apr2025 02:08:02.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[14Apr2025 02:08:03.512] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[14Apr2025 02:08:03.512] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[14Apr2025 02:08:09.318] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[14Apr2025 02:08:11.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[14Apr2025 02:08:11.684] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[14Apr2025 02:08:49.033] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[14Apr2025 02:08:49.039] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
