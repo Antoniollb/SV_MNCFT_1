@@ -2338,9 +2338,10 @@
   },
   "twilightforest:progress_troll": {
     "criteria": {
-      "previous_progression": "2025-04-14 04:48:59 +0000"
+      "previous_progression": "2025-04-14 04:48:59 +0000",
+      "lamp": "2025-04-14 05:30:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_hydra": {
     "criteria": {
@@ -2376,6 +2377,12 @@
   "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
     "criteria": {
       "has_item": "2025-04-14 04:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-14 05:30:48 +0000"
     },
     "done": true
   },
@@ -2492,6 +2499,12 @@
       "has_brown_mushroom": "2025-04-14 02:51:11 +0000"
     },
     "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "previous_progression": "2025-04-14 05:30:27 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {

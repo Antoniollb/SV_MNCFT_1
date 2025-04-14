@@ -4364,6 +4364,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-14 05:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-14 05:30:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:giants": {
     "criteria": {
       "pickaxe": "2025-04-14 05:00:02 +0000"
@@ -4391,6 +4403,12 @@
   "twilightforest:recipes/misc/minoshroom_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-04-14 03:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-14 05:30:47 +0000"
     },
     "done": true
   },
