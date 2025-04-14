@@ -5573,6 +5573,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/ur_ghast_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-14 04:56:33 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_troll": {
     "criteria": {
       "previous_progression": "2025-04-14 04:48:47 +0000"

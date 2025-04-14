@@ -420,3 +420,18 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 04:51:55.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff moved too quickly! -13010.628949929796,-56.92159999847412,17578.983116665844
 [14Apr2025 04:52:11.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Clear Skies]
 [14Apr2025 04:52:11.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Ultimate Showdown]
+[14Apr2025 04:52:57.173] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[14Apr2025 04:52:57.174] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 04:53:01.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster froze to death
+[14Apr2025 04:53:01.174] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 04:57:43.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> no la veo
+[14Apr2025 04:58:32.432] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[14Apr2025 04:58:32.434] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 04:59:29.185] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[14Apr2025 04:59:29.187] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 04:59:31.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster froze to death
+[14Apr2025 04:59:31.187] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 05:00:30.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Jack and the Beanstalk]
+[14Apr2025 05:01:35.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [We Do a Little Trolling]
+[14Apr2025 05:02:04.327] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[14Apr2025 05:02:04.328] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved

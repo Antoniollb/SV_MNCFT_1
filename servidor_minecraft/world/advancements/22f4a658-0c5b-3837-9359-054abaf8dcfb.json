@@ -1798,6 +1798,7 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-03-24 02:27:18 +0000",
+      "mangrove_planks": "2025-04-14 04:57:18 +0000",
       "twilight_oak_sign": "2025-03-30 22:57:53 +0000",
       "canopy_chest": "2025-03-25 02:48:10 +0000",
       "twilight_oak_stairs": "2025-03-31 00:04:04 +0000",
@@ -3244,9 +3245,10 @@
   },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2025-03-31 04:40:26 +0000"
+      "previous_progression": "2025-03-31 04:40:26 +0000",
+      "trophy": "2025-04-14 04:52:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/decorations/wood/birch_banister": {
     "criteria": {
@@ -4071,9 +4073,10 @@
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2025-04-14 04:23:58 +0000",
+      "snow_queen": "2025-04-14 04:52:11 +0000",
       "ur_ghast": "2025-04-12 04:40:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/ur_ghast_banner_pattern": {
     "criteria": {
@@ -4250,6 +4253,12 @@
     },
     "done": true
   },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-04-14 05:00:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-04-14 04:36:03 +0000"
@@ -4262,9 +4271,45 @@
     },
     "done": true
   },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2025-04-14 04:52:11 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/decorations/wood/mangrove_fence": {
+    "criteria": {
+      "has_item": "2025-04-14 04:57:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-04-14 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/mangrove_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-14 04:57:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/mangrove_plate": {
+    "criteria": {
+      "has_item": "2025-04-14 04:57:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/mangrove_gate": {
+    "criteria": {
+      "has_item": "2025-04-14 04:57:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mangrove_slab": {
+    "criteria": {
+      "has_item": "2025-04-14 04:57:18 +0000"
     },
     "done": true
   },
@@ -4274,15 +4319,51 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/mangrove_button": {
+    "criteria": {
+      "has_item": "2025-04-14 04:57:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_carpet": {
     "criteria": {
       "has_purple_wool": "2025-04-14 04:36:48 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/mangrove_sign": {
+    "criteria": {
+      "has_item": "2025-04-14 04:57:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-14 04:52:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mangrove_stairs": {
+    "criteria": {
+      "has_item": "2025-04-14 04:57:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2025-04-14 04:36:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-04-14 05:00:02 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/redstone/wood/mangrove_door": {
+    "criteria": {
+      "has_item": "2025-04-14 04:57:18 +0000"
     },
     "done": true
   },
@@ -4295,6 +4376,12 @@
   "twilightforest:recipes/misc/minoshroom_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-04-14 03:39:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/mangrove_chest": {
+    "criteria": {
+      "has_item": "2025-04-14 04:57:18 +0000"
     },
     "done": true
   },
