@@ -5499,6 +5499,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-14 03:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-04-14 02:56:54 +0000"

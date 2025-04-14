@@ -321,3 +321,14 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 03:10:02.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
 [14Apr2025 03:10:02.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
 [14Apr2025 03:10:02.324] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
+[14Apr2025 03:16:55.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.28.127.113:59625] logged in with entity id 32084 at (-15915.82692420262, -13.0, 19188.228071164947)
+[14Apr2025 03:16:55.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
+[14Apr2025 03:16:57.259] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
+[14Apr2025 03:16:57.259] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[14Apr2025 03:17:03.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[14Apr2025 03:17:04.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[14Apr2025 03:17:04.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[14Apr2025 03:17:42.371] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[14Apr2025 03:17:42.374] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 03:20:37.169] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[14Apr2025 03:20:37.172] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
