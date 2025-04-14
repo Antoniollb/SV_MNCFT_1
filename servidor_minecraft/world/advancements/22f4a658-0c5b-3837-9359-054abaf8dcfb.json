@@ -1809,6 +1809,7 @@
       "twilight_oak_log": "2025-03-23 22:36:09 +0000",
       "twilight_oak_wood": "2025-03-23 22:36:17 +0000",
       "liveroot": "2025-03-29 04:40:34 +0000",
+      "giant_log": "2025-04-14 05:20:33 +0000",
       "cracked_towerwood": "2025-04-12 04:11:31 +0000"
     },
     "done": false
@@ -4274,9 +4275,10 @@
   },
   "twilightforest:progress_troll": {
     "criteria": {
-      "previous_progression": "2025-04-14 04:52:11 +0000"
+      "previous_progression": "2025-04-14 04:52:11 +0000",
+      "lamp": "2025-04-14 05:30:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/decorations/wood/mangrove_fence": {
     "criteria": {
@@ -4368,6 +4370,12 @@
     },
     "done": false
   },
+  "twilightforest:recipes/building_blocks/giant_log_to_oak_planks": {
+    "criteria": {
+      "has_item": "2025-04-14 05:20:33 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/mangrove_door": {
     "criteria": {
       "has_item": "2025-04-14 04:57:18 +0000"
@@ -4385,6 +4393,12 @@
       "has_trophy": "2025-04-14 03:39:05 +0000"
     },
     "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "previous_progression": "2025-04-14 05:30:03 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/decorations/wood/mangrove_chest": {
     "criteria": {

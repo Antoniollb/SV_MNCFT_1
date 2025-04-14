@@ -2715,7 +2715,8 @@
       "twilight_oak_wood": "2025-03-23 22:36:57 +0000",
       "huge_stalk": "2025-04-14 05:00:46 +0000",
       "twilight_oak_sapling": "2025-03-23 22:37:49 +0000",
-      "liveroot": "2025-03-29 03:37:42 +0000"
+      "liveroot": "2025-03-29 03:37:42 +0000",
+      "giant_log": "2025-04-14 05:16:58 +0000"
     },
     "done": false
   },
@@ -4110,9 +4111,10 @@
   },
   "twilightforest:giants": {
     "criteria": {
-      "pickaxe": "2025-04-03 16:20:24 +0000"
+      "pickaxe": "2025-04-03 16:20:24 +0000",
+      "giant": "2025-04-14 05:15:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/talk_grave_guardian": {
     "criteria": {
@@ -4849,6 +4851,24 @@
     },
     "done": true
   },
+  "twilightforest:recipes/tools/equipment/giant_sword": {
+    "criteria": {
+      "has_item": "2025-04-14 05:17:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/giant_cobblestone_to_cobblestone": {
+    "criteria": {
+      "has_item": "2025-04-14 05:17:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/rainy_cloud": {
+    "criteria": {
+      "has_item": "2025-04-14 05:20:01 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/food/food/smoked_meef": {
     "criteria": {
       "has_food": "2025-04-14 02:40:05 +0000"
@@ -4876,6 +4896,12 @@
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-04-14 01:57:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/giant_log_to_oak_planks": {
+    "criteria": {
+      "has_item": "2025-04-14 05:16:58 +0000"
     },
     "done": true
   },
@@ -4915,6 +4941,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/tools/equipment/giant_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-14 05:17:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-04-14 02:43:43 +0000"
@@ -4924,6 +4956,12 @@
   "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
     "criteria": {
       "has_item": "2025-04-14 04:25:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/snowy_cloud": {
+    "criteria": {
+      "has_item": "2025-04-14 05:20:01 +0000"
     },
     "done": true
   },

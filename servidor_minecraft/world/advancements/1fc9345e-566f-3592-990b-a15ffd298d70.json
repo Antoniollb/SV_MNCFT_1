@@ -3170,8 +3170,10 @@
       "twilight_oak_log": "2025-03-23 22:37:12 +0000",
       "twilight_oak_wood": "2025-03-23 22:38:12 +0000",
       "dark_log": "2025-04-09 03:29:53 +0000",
+      "mangrove_pressure_plate": "2025-04-14 05:11:54 +0000",
       "liveroot": "2025-03-28 01:57:26 +0000",
       "twilight_oak_sapling": "2025-04-05 03:58:01 +0000",
+      "giant_log": "2025-04-14 05:16:52 +0000",
       "twilight_oak_boat": "2025-03-25 03:14:22 +0000"
     },
     "done": false
@@ -5568,15 +5570,34 @@
     },
     "done": true
   },
-  "twilightforest:beanstalk": {
-    "criteria": {
-      "beans": "2025-04-14 05:03:18 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
       "has_purple_wool": "2025-04-14 04:44:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-04-14 04:44:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-04-14 04:44:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2025-04-14 04:48:47 +0000",
+      "lamp": "2025-04-14 05:23:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-14 04:48:47 +0000"
     },
     "done": true
   },
@@ -5586,21 +5607,28 @@
     },
     "done": true
   },
-  "twilightforest:progress_troll": {
+  "twilightforest:troll": {
     "criteria": {
-      "previous_progression": "2025-04-14 04:48:47 +0000"
+      "troll": "2025-04-14 05:02:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-04-14 05:03:18 +0000"
     },
     "done": false
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-04-14 05:03:18 +0000",
+      "giant": "2025-04-14 05:15:08 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/decorations/wood/mangrove_fence": {
     "criteria": {
       "has_item": "2025-04-14 05:04:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:troll": {
-    "criteria": {
-      "troll": "2025-04-14 05:02:43 +0000"
     },
     "done": true
   },
@@ -5634,21 +5662,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2025-04-14 04:44:38 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/decorations/wood/mangrove_sign": {
     "criteria": {
       "has_item": "2025-04-14 05:04:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-04-14 04:48:47 +0000"
     },
     "done": true
   },
@@ -5657,18 +5673,6 @@
       "has_item": "2025-04-14 05:04:44 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/decorations/purple_banner": {
-    "criteria": {
-      "has_purple_wool": "2025-04-14 04:44:38 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:giants": {
-    "criteria": {
-      "pickaxe": "2025-04-14 05:03:18 +0000"
-    },
-    "done": false
   },
   "twilightforest:recipes/redstone/wood/mangrove_door": {
     "criteria": {
@@ -5681,6 +5685,48 @@
       "has_item": "2025-04-14 05:04:44 +0000"
     },
     "done": true
+  },
+  "twilightforest:recipes/building_blocks/giant_log_to_oak_planks": {
+    "criteria": {
+      "has_item": "2025-04-14 05:16:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/giant_sword": {
+    "criteria": {
+      "has_item": "2025-04-14 05:17:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/giant_cobblestone_to_cobblestone": {
+    "criteria": {
+      "has_item": "2025-04-14 05:17:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/giant_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-14 05:17:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/rainy_cloud": {
+    "criteria": {
+      "has_item": "2025-04-14 05:17:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/snowy_cloud": {
+    "criteria": {
+      "has_item": "2025-04-14 05:17:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "previous_progression": "2025-04-14 05:23:09 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

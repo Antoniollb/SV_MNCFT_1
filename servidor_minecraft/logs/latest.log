@@ -440,3 +440,49 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 05:03:17.920] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
 [14Apr2025 05:03:17.922] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
 [14Apr2025 05:06:46.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [We Do a Little Trolling]
+[14Apr2025 05:15:08.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [I'm on Cloud Nine]
+[14Apr2025 05:15:33.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [I'm on Cloud Nine]
+[14Apr2025 05:16:06.119] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[14Apr2025 05:16:06.120] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 05:17:58.888] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[14Apr2025 05:17:58.889] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 05:18:05.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> AYUDA
+[14Apr2025 05:18:19.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster was doomed to fall by Giant Miner
+[14Apr2025 05:20:31.452] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[14Apr2025 05:20:31.454] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[14Apr2025 05:20:34.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB was kicked for floating too long!
+[14Apr2025 05:20:34.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Flying is not enabled on this server
+[14Apr2025 05:20:34.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
+[14Apr2025 05:20:34.469] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
+[14Apr2025 05:20:40.805] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[14Apr2025 05:20:40.806] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 05:20:42.932] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.187.213.183:43617] logged in with entity id 91491 at (-14850.638267077999, 47.781567262674635, 20532.12335888286)
+[14Apr2025 05:20:42.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[14Apr2025 05:20:43.181] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[14Apr2025 05:20:43.181] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[14Apr2025 05:20:46.793] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[14Apr2025 05:20:47.793] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[14Apr2025 05:20:47.793] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
+[14Apr2025 05:20:59.421] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[14Apr2025 05:20:59.422] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 05:21:06.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> REVIVAMW
+[14Apr2025 05:23:09.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [I Wish For More Burning]
+[14Apr2025 05:26:56.271] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[14Apr2025 05:26:56.273] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 05:27:01.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff tried to swim in lava
+[14Apr2025 05:27:01.276] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 05:27:37.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> dame tp antonio
+[14Apr2025 05:27:39.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to MATTBXB]
+[14Apr2025 05:28:16.172] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[14Apr2025 05:28:16.173] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 05:28:20.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster froze to death
+[14Apr2025 05:28:20.172] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 05:29:29.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[14Apr2025 05:29:41.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to Antonio]
+[14Apr2025 05:29:47.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported MATTBXB to Antonio]
+[14Apr2025 05:30:02.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to mastercheeffff]
+[14Apr2025 05:30:03.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [I Wish For More Burning]
+[14Apr2025 05:30:20.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [I Wish For More Burning]
+[14Apr2025 05:30:27.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [I Wish For More Burning]
+[14Apr2025 05:32:11.975] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[14Apr2025 05:32:11.977] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
