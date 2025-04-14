@@ -198,3 +198,8 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 20:40:44.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> voy yendo
 [14Apr2025 20:41:31.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> te fuiste
 [14Apr2025 20:41:50.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> si solo voy a picar
+[14Apr2025 20:49:12.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has completed the challenge [Ancient Knowledge]
+[14Apr2025 20:49:22.935] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[14Apr2025 20:49:22.936] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 20:49:25.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster froze to death
+[14Apr2025 20:49:25.465] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
