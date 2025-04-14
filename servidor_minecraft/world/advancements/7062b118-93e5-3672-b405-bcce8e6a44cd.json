@@ -4693,6 +4693,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-14 02:43:43 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/food/food/smelted_meef": {
     "criteria": {
       "has_food": "2025-04-14 02:40:05 +0000"
@@ -4726,6 +4732,24 @@
   "twilightforest:recipes/building_blocks/wood/mangrove_planks": {
     "criteria": {
       "has_item": "2025-04-14 02:35:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-14 02:43:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-14 02:43:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/ore_map": {
+    "criteria": {
+      "has_item": "2025-04-14 02:47:47 +0000"
     },
     "done": true
   },

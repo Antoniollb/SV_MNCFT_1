@@ -4178,6 +4178,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
+    "criteria": {
+      "has_item": "2025-04-14 02:45:15 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/food/food/smelted_meef": {
     "criteria": {
       "has_food": "2025-04-14 02:38:59 +0000"
@@ -4193,6 +4199,18 @@
   "twilightforest:recipes/food/food/smoked_meef": {
     "criteria": {
       "has_food": "2025-04-14 02:38:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/maze_stone/mossy_mazestone": {
+    "criteria": {
+      "has_item": "2025-04-14 02:45:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/maze_map": {
+    "criteria": {
+      "has_item": "2025-04-14 02:45:28 +0000"
     },
     "done": true
   },

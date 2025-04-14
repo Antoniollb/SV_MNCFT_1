@@ -2312,6 +2312,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-04-14 02:40:22 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
       "entered_deep_crypt": "2025-04-14 02:14:29 +0000"
@@ -2321,6 +2327,24 @@
   "tombstone:adventure/consume_soul": {
     "criteria": {
       "coded_trigger": "2025-04-14 02:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-14 02:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-14 02:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-14 02:44:12 +0000"
     },
     "done": true
   },
