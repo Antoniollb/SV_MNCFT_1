@@ -206,3 +206,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 20:59:21.202] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
 [14Apr2025 20:59:21.204] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
 [14Apr2025 21:04:14.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Home Sweet Home]
+[14Apr2025 21:37:37.486] [Worker-Main-53/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-101578221,979652157,-1330566700,1401853732],type:"minecraft:entity",y_offset:0.36f}}]
+[14Apr2025 21:44:39.833] [Worker-Main-50/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-373, 219], pos: BlockPos{x=-5968, y=46, z=3508}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[14Apr2025 21:44:39.834] [Worker-Main-50/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-373, 219], pos: BlockPos{x=-5968, y=46, z=3509}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[14Apr2025 21:52:49.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> [name:"Mansion", x:-6121, y:68, z:3585, dim:minecraft:overworld]
