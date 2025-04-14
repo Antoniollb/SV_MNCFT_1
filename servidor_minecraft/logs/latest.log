@@ -177,3 +177,24 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 19:59:07.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
 [14Apr2025 19:59:08.680] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
 [14Apr2025 19:59:08.684] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[14Apr2025 20:33:27.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.187.213.183:43821] logged in with entity id 8252 at (-1892.4182057812047, 67.9375, 2536.317483407375)
+[14Apr2025 20:33:27.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[14Apr2025 20:33:28.842] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[14Apr2025 20:33:28.843] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[14Apr2025 20:33:33.305] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[14Apr2025 20:33:34.306] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[14Apr2025 20:33:34.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
+[14Apr2025 20:33:57.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Manuel
+[14Apr2025 20:34:03.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> HOLA
+[14Apr2025 20:34:10.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> vamos a buscar netheria
+[14Apr2025 20:34:34.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> a eso voy
+[14Apr2025 20:35:18.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> esperame
+[14Apr2025 20:35:25.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> vente
+[14Apr2025 20:36:24.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> dame un segundo
+[14Apr2025 20:37:23.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> corre
+[14Apr2025 20:37:32.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> la exp para despues
+[14Apr2025 20:38:02.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> ya voy
+[14Apr2025 20:38:57.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> le estoy poniendo reparacion al arma
+[14Apr2025 20:40:44.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> voy yendo
+[14Apr2025 20:41:31.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> te fuiste
+[14Apr2025 20:41:50.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> si solo voy a picar
