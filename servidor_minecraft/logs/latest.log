@@ -210,3 +210,9 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 21:44:39.833] [Worker-Main-50/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-373, 219], pos: BlockPos{x=-5968, y=46, z=3508}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
 [14Apr2025 21:44:39.834] [Worker-Main-50/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-373, 219], pos: BlockPos{x=-5968, y=46, z=3509}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
 [14Apr2025 21:52:49.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> [name:"Mansion", x:-6121, y:68, z:3585, dim:minecraft:overworld]
+[14Apr2025 22:01:43.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Disconnected
+[14Apr2025 22:01:43.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
+[14Apr2025 22:01:43.209] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
+[14Apr2025 22:02:16.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[14Apr2025 22:02:16.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[14Apr2025 22:02:16.505] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
