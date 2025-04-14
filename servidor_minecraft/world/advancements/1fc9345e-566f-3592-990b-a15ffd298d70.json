@@ -3165,6 +3165,7 @@
       "dark_planks": "2025-04-09 03:29:57 +0000",
       "twilight_oak_trapdoor": "2025-03-25 03:17:45 +0000",
       "towerwood": "2025-04-12 03:34:35 +0000",
+      "twilight_oak_pressure_plate": "2025-04-14 04:06:53 +0000",
       "twilight_oak_log": "2025-03-23 22:37:12 +0000",
       "twilight_oak_wood": "2025-03-23 22:38:12 +0000",
       "dark_log": "2025-04-09 03:29:53 +0000",
@@ -5498,6 +5499,12 @@
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2025-04-14 02:05:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/waterlily_to_magenta": {
+    "criteria": {
+      "has_item": "2025-04-14 04:16:34 +0000"
     },
     "done": true
   },

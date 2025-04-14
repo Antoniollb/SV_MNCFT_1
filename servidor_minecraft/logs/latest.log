@@ -353,3 +353,24 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 03:50:53.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff froze to death
 [14Apr2025 03:50:53.323] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
 [14Apr2025 03:51:03.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to DavidMaster]
+[14Apr2025 03:57:33.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> la encontre
+[14Apr2025 04:02:48.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> lo encontramos
+[14Apr2025 04:08:58.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> la encontre
+[14Apr2025 04:09:24.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved wrongly!
+[14Apr2025 04:10:25.322] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[14Apr2025 04:10:25.323] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 04:10:27.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff froze to death
+[14Apr2025 04:10:27.325] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 04:10:33.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Here They Come]
+[14Apr2025 04:10:58.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> ANTONI TP
+[14Apr2025 04:11:16.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to DavidMaster]
+[14Apr2025 04:11:38.846] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[14Apr2025 04:11:38.847] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 04:11:40.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
+[14Apr2025 04:11:40.900] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 04:16:03.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Mighty Stroganoff]
+[14Apr2025 04:16:14.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Mighty Stroganoff]
+[14Apr2025 04:20:12.120] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[14Apr2025 04:20:12.127] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 04:20:14.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster was roasted alive by the Hydra
+[14Apr2025 04:20:14.628] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved

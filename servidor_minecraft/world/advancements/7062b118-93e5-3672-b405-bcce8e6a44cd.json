@@ -3025,6 +3025,7 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
+      "meef_stroganoff": "2025-04-14 04:16:03 +0000",
       "torchberries": "2025-03-25 02:19:44 +0000"
     },
     "done": false
@@ -3483,9 +3484,10 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2025-04-14 04:16:03 +0000",
       "kill_lich": "2025-03-28 04:07:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/strong_undead": {
     "criteria": {
@@ -4692,6 +4694,12 @@
       "has_item": "2025-04-14 03:01:27 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-04-14 04:16:03 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/building_blocks/wood/mangrove_wood": {
     "criteria": {
