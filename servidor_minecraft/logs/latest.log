@@ -374,3 +374,19 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 04:20:12.127] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
 [14Apr2025 04:20:14.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster was roasted alive by the Hydra
 [14Apr2025 04:20:14.628] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 04:21:58.368] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[14Apr2025 04:21:58.373] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 04:22:09.769] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[14Apr2025 04:22:09.774] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[14Apr2025 04:22:11.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio was roasted alive by the Hydra
+[14Apr2025 04:22:11.773] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[14Apr2025 04:23:09.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved wrongly!
+[14Apr2025 04:23:13.718] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[14Apr2025 04:23:13.722] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 04:23:16.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster was roasted alive by the Hydra
+[14Apr2025 04:23:16.079] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 04:23:22.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff moved too quickly! 16.24788777431786,-0.17390403646672214,9.015735408356704
+[14Apr2025 04:23:58.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Hydra Slayer]
+[14Apr2025 04:23:58.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Hydra Slayer]
+[14Apr2025 04:23:58.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Hydra Slayer]
+[14Apr2025 04:23:58.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Ultimate Showdown]

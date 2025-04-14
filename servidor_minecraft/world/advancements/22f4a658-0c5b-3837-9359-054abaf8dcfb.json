@@ -4069,6 +4069,7 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
+      "hydra": "2025-04-14 04:23:58 +0000",
       "ur_ghast": "2025-04-12 04:40:06 +0000"
     },
     "done": false
@@ -4219,9 +4220,10 @@
   },
   "twilightforest:progress_hydra": {
     "criteria": {
-      "stroganoff": "2025-04-14 02:58:31 +0000"
+      "stroganoff": "2025-04-14 02:58:31 +0000",
+      "was_in_fight": "2025-04-14 04:23:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {

@@ -2314,6 +2314,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_boots": {
+    "criteria": {
+      "has_item": "2025-04-14 04:24:47 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2025-04-14 02:40:22 +0000"
@@ -2356,6 +2362,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
+    "criteria": {
+      "has_item": "2025-04-14 04:24:47 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/food/food/campfired_meef": {
     "criteria": {
       "has_food": "2025-04-14 03:22:34 +0000"
@@ -2371,6 +2383,12 @@
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-04-14 04:10:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-14 04:24:47 +0000"
     },
     "done": true
   },
@@ -2392,9 +2410,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
+    "criteria": {
+      "has_item": "2025-04-14 04:24:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-04-14 02:44:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
+    "criteria": {
+      "has_item": "2025-04-14 04:24:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-14 04:24:47 +0000"
     },
     "done": true
   },
@@ -2407,6 +2443,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-04-14 02:44:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
+    "criteria": {
+      "has_item": "2025-04-14 04:24:47 +0000"
     },
     "done": true
   },

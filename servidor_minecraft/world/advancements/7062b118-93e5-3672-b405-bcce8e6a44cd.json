@@ -3751,10 +3751,11 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
+      "hydra": "2025-04-14 04:23:58 +0000",
       "snow_queen": "2025-03-31 04:56:50 +0000",
       "ur_ghast": "2025-04-12 04:40:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/snow_queen_banner_pattern": {
     "criteria": {
@@ -4689,17 +4690,30 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_boots": {
+    "criteria": {
+      "has_item": "2025-04-14 04:25:03 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
     "criteria": {
       "has_item": "2025-04-14 03:01:27 +0000"
     },
     "done": true
   },
-  "twilightforest:progress_hydra": {
+  "twilightforest:progress_troll": {
     "criteria": {
-      "stroganoff": "2025-04-14 04:16:03 +0000"
+      "previous_progression": "2025-04-14 04:23:58 +0000"
     },
     "done": false
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-04-14 04:16:03 +0000",
+      "was_in_fight": "2025-04-14 04:23:58 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/building_blocks/wood/mangrove_wood": {
     "criteria": {
@@ -4719,9 +4733,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
+    "criteria": {
+      "has_item": "2025-04-14 04:25:03 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/food/food/campfired_meef": {
     "criteria": {
       "has_food": "2025-04-14 02:40:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-14 04:25:03 +0000"
     },
     "done": true
   },
@@ -4737,6 +4763,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
+    "criteria": {
+      "has_item": "2025-04-14 04:25:03 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/maze_map": {
     "criteria": {
       "has_item": "2025-04-14 03:40:47 +0000"
@@ -4746,6 +4778,18 @@
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-04-14 01:57:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
+    "criteria": {
+      "has_item": "2025-04-14 04:25:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-14 04:25:03 +0000"
     },
     "done": true
   },
@@ -4770,6 +4814,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-04-14 02:43:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
+    "criteria": {
+      "has_item": "2025-04-14 04:25:03 +0000"
     },
     "done": true
   },
