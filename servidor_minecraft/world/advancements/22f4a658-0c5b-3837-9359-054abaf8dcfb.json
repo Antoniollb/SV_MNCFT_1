@@ -2096,7 +2096,9 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
+      "raw_meef": "2025-04-14 02:54:14 +0000",
       "raw_venison": "2025-03-24 03:20:48 +0000",
+      "meef_stroganoff": "2025-04-14 02:58:31 +0000",
       "cooked_venison": "2025-03-30 22:41:36 +0000"
     },
     "done": false
@@ -3101,9 +3103,10 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2025-04-14 02:58:31 +0000",
       "kill_lich": "2025-03-30 23:36:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_yeti": {
     "criteria": {
@@ -4184,6 +4187,18 @@
     },
     "done": true
   },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-04-14 02:58:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-14 02:59:58 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/food/food/smelted_meef": {
     "criteria": {
       "has_food": "2025-04-14 02:38:59 +0000"
@@ -4211,6 +4226,18 @@
   "twilightforest:recipes/misc/maze_map": {
     "criteria": {
       "has_item": "2025-04-14 02:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-14 02:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-14 02:59:58 +0000"
     },
     "done": true
   },
