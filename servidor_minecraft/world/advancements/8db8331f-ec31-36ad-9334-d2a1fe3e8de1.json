@@ -2318,5 +2318,11 @@
     },
     "done": false
   },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-04-14 02:18:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

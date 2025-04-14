@@ -244,3 +244,19 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 02:17:11.134] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
 [14Apr2025 02:17:17.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported MATTBXB to Antonio]
 [14Apr2025 02:18:16.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Let The Magic Happen]
+[14Apr2025 02:21:36.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Local Brewery]
+[14Apr2025 02:22:29.593] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[14Apr2025 02:23:17.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> vamos al otro mundo vienes
+[14Apr2025 02:23:19.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved too quickly! -13010.884208448157,-56.92159999847412,17579.51089711644
+[14Apr2025 02:24:58.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff moved too quickly! -13010.995759454316,-56.92159999847412,17579.618438679085
+[14Apr2025 02:28:19.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.28.127.113:52691] logged in with entity id 14267 at (-1891.6290495400006, 69.0, 2538.6532800868135)
+[14Apr2025 02:28:19.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
+[14Apr2025 02:28:20.759] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
+[14Apr2025 02:28:20.759] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[14Apr2025 02:28:27.552] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[14Apr2025 02:28:28.464] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[14Apr2025 02:28:28.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[14Apr2025 02:28:50.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> donde estan?
+[14Apr2025 02:28:58.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> en el otro mundo
+[14Apr2025 02:29:00.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Bug Stomper]
+[14Apr2025 02:29:14.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> DONDE
