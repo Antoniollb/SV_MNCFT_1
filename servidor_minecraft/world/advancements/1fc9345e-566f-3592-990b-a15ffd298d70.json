@@ -5294,27 +5294,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/fiery_fiery_boots": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_item": "2025-04-12 04:40:30 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_merge": {
-    "criteria": {
-      "ur_ghast": "2025-04-12 04:40:06 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/building_blocks/compressed_blocks/carminite_block": {
-    "criteria": {
-      "has_item": "2025-04-12 04:38:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
-    "criteria": {
-      "has_item": "2025-04-12 04:40:30 +0000"
+      "has_redstone_torch": "2025-04-12 02:19:33 +0000"
     },
     "done": true
   },
@@ -5324,45 +5306,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-12 04:40:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jack_o_lantern": {
-    "criteria": {
-      "has_carved_pumpkin": "2025-04-12 05:10:21 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/carminite_builder": {
-    "criteria": {
-      "has_item": "2025-04-12 04:38:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-04-12 02:19:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-04-12 02:22:27 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
-    "criteria": {
-      "has_item": "2025-04-12 03:34:35 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
-    "criteria": {
-      "has_item": "2025-04-12 04:40:30 +0000"
     },
     "done": true
   },
@@ -5378,9 +5324,63 @@
     },
     "done": true
   },
-  "twilightforest:experiment_115": {
+  "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
     "criteria": {
-      "eat_experiment_115": "2025-04-12 04:49:53 +0000"
+      "has_item": "2025-04-12 03:34:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
+    "criteria": {
+      "has_item": "2025-04-12 03:34:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/carminite_block": {
+    "criteria": {
+      "has_item": "2025-04-12 04:38:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_builder": {
+    "criteria": {
+      "has_item": "2025-04-12 04:38:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_reactor": {
+    "criteria": {
+      "has_item": "2025-04-12 04:38:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "ur_ghast": "2025-04-12 04:40:06 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_boots": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
+    "criteria": {
+      "has_item": "2025-04-12 04:40:30 +0000"
     },
     "done": true
   },
@@ -5396,9 +5396,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_lamp": {
+  "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
     "criteria": {
-      "has_glowstone": "2025-04-12 04:51:22 +0000"
+      "has_item": "2025-04-12 04:40:30 +0000"
     },
     "done": true
   },
@@ -5408,21 +5408,21 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
+  "twilightforest:experiment_115": {
     "criteria": {
-      "has_item": "2025-04-12 04:40:30 +0000"
+      "eat_experiment_115": "2025-04-12 04:49:53 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
+  "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
-      "has_item": "2025-04-12 03:34:35 +0000"
+      "has_glowstone": "2025-04-12 04:51:22 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/redstone/carminite_reactor": {
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
-      "has_item": "2025-04-12 04:38:42 +0000"
+      "has_carved_pumpkin": "2025-04-12 05:10:21 +0000"
     },
     "done": true
   },

@@ -4548,9 +4548,21 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/ur_ghast_banner_pattern": {
+  "tombstone:adventure/find_lost_tablet": {
     "criteria": {
-      "has_trophy": "2025-04-13 04:28:28 +0000"
+      "has_lost_tablet": "2025-04-13 03:27:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_lost_tablet_treasure": {
+    "criteria": {
+      "coded_trigger": "2025-04-13 03:38:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_lost_tablet": {
+    "criteria": {
+      "coded_trigger": "2025-04-13 03:42:18 +0000"
     },
     "done": true
   },
@@ -4560,27 +4572,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/music_disc_5": {
-    "criteria": {
-      "has_disc_fragment_5": "2025-04-13 03:50:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-13 03:44:46 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_lost_tablet": {
-    "criteria": {
-      "has_lost_tablet": "2025-04-13 03:27:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-04-13 05:27:52 +0000"
     },
     "done": true
   },
@@ -4596,12 +4590,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2025-04-13 05:27:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-04-13 03:44:46 +0000"
@@ -4611,24 +4599,6 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-13 03:44:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2025-04-13 05:27:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2025-04-13 05:27:52 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_lost_tablet": {
-    "criteria": {
-      "coded_trigger": "2025-04-13 03:42:18 +0000"
     },
     "done": true
   },
@@ -4644,33 +4614,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/village_defender": {
-    "criteria": {
-      "coded_trigger": "2025-04-13 05:38:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/recovery_compass": {
-    "criteria": {
-      "has_echo_shard": "2025-04-13 03:50:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-04-13 03:44:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-04-13 04:37:08 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_lost_tablet_treasure": {
-    "criteria": {
-      "coded_trigger": "2025-04-13 03:38:57 +0000"
     },
     "done": true
   },
@@ -4680,9 +4626,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-04-13 03:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-04-13 03:50:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/ur_ghast_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-13 04:28:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-13 04:37:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-13 05:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-13 05:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-13 05:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-13 05:27:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-04-13 05:27:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-04-13 05:38:43 +0000"
     },
     "done": true
   },
