@@ -260,3 +260,33 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 02:28:58.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> en el otro mundo
 [14Apr2025 02:29:00.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Bug Stomper]
 [14Apr2025 02:29:14.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> DONDE
+[14Apr2025 02:30:46.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> No los veo, entoy en nether
+[14Apr2025 02:30:59.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Fui al otro mundo y no los vi
+[14Apr2025 02:31:14.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> y en que momento nosotros dijimos que estabmos en el nether
+[14Apr2025 02:31:23.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> yo dije en el otro mundo
+[14Apr2025 02:31:45.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> hazme tp
+[14Apr2025 02:31:51.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> camine
+[14Apr2025 02:32:04.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> 1. estan lejimos
+[14Apr2025 02:32:10.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> 2. se fueron si avisar
+[14Apr2025 02:32:33.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> estas cerca
+[14Apr2025 02:33:13.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Haz tp
+[14Apr2025 02:33:16.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> por favor
+[14Apr2025 02:33:30.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> por 2 diamante
+[14Apr2025 02:33:58.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> como ofrenda, lo quemaremos en la lava
+[14Apr2025 02:36:58.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> muevete
+[14Apr2025 02:37:40.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to MATTBXB]
+[14Apr2025 02:37:59.325] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[14Apr2025 02:37:59.327] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[14Apr2025 02:38:00.023] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[14Apr2025 02:38:00.024] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 02:38:03.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff froze to death
+[14Apr2025 02:38:03.323] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 02:38:34.486] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[14Apr2025 02:38:34.489] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[14Apr2025 02:38:37.332] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[14Apr2025 02:38:37.334] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 02:38:40.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to DavidMaster]
+[14Apr2025 02:38:41.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster froze to death
+[14Apr2025 02:38:41.325] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 02:38:46.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB froze to death
+[14Apr2025 02:38:46.340] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved

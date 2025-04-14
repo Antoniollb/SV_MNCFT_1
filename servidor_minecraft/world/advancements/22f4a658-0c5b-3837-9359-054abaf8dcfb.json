@@ -4178,5 +4178,23 @@
     },
     "done": true
   },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2025-04-14 02:38:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2025-04-14 02:38:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2025-04-14 02:38:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

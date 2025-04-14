@@ -2709,6 +2709,7 @@
       "twilight_oak_trapdoor": "2025-03-25 03:20:35 +0000",
       "twilight_oak_slab": "2025-03-25 21:05:21 +0000",
       "towerwood": "2025-04-12 04:14:55 +0000",
+      "mangrove_log": "2025-04-14 02:35:06 +0000",
       "twilight_oak_log": "2025-03-23 22:36:36 +0000",
       "twilight_oak_wood": "2025-03-23 22:36:57 +0000",
       "twilight_oak_sapling": "2025-03-23 22:37:49 +0000",
@@ -4686,6 +4687,30 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/mangrove_wood": {
+    "criteria": {
+      "has_item": "2025-04-14 02:35:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2025-04-14 02:40:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2025-04-14 02:40:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2025-04-14 02:40:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-04-14 01:57:54 +0000"
@@ -4695,6 +4720,12 @@
   "tombstone:adventure/find_lost_tablet_village": {
     "criteria": {
       "coded_trigger": "2025-04-14 02:03:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mangrove_planks": {
+    "criteria": {
+      "has_item": "2025-04-14 02:35:06 +0000"
     },
     "done": true
   },
