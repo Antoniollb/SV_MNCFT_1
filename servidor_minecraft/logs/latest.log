@@ -222,3 +222,25 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 02:08:11.684] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
 [14Apr2025 02:08:49.033] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
 [14Apr2025 02:08:49.039] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[14Apr2025 02:11:04.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> por cierto donde estan
+[14Apr2025 02:11:15.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> en la aventura
+[14Apr2025 02:11:16.432] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[14Apr2025 02:11:16.438] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[14Apr2025 02:11:37.031] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[14Apr2025 02:11:37.039] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[14Apr2025 02:14:29.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to MATTBXB]
+[14Apr2025 02:15:24.923] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[14Apr2025 02:15:24.927] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[14Apr2025 02:15:49.923] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[14Apr2025 02:15:49.927] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[14Apr2025 02:16:24.421] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[14Apr2025 02:16:24.426] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 02:16:45.023] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[14Apr2025 02:16:45.028] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 02:16:59.038] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[14Apr2025 02:16:59.039] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 02:17:00.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to Antonio]
+[14Apr2025 02:17:11.132] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[14Apr2025 02:17:11.134] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 02:17:17.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported MATTBXB to Antonio]
+[14Apr2025 02:18:16.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Let The Magic Happen]
