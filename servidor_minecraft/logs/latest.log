@@ -343,3 +343,13 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 03:34:03.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> aqui
 [14Apr2025 03:34:08.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> lluberis
 [14Apr2025 03:37:56.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> [name:"aaa", x:-16138, y:-23, z:18926, dim:twilightforest:twilight_forest]
+[14Apr2025 03:46:38.324] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[14Apr2025 03:46:38.326] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 03:46:40.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster froze to death
+[14Apr2025 03:46:40.328] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 03:47:21.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
+[14Apr2025 03:50:51.320] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[14Apr2025 03:50:51.321] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 03:50:53.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff froze to death
+[14Apr2025 03:50:53.323] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 03:51:03.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to DavidMaster]
