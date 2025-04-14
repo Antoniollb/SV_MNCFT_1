@@ -219,6 +219,7 @@
       "minecraft:pillager": "2025-04-13 05:30:24 +0000",
       "minecraft:skeleton": "2025-03-22 05:02:20 +0000",
       "minecraft:vindicator": "2025-03-27 03:24:10 +0000",
+      "minecraft:magma_cube": "2025-04-14 20:54:10 +0000",
       "minecraft:spider": "2025-03-22 04:25:34 +0000",
       "minecraft:creeper": "2025-03-23 21:45:37 +0000",
       "minecraft:evoker": "2025-03-27 03:29:30 +0000",
@@ -4421,6 +4422,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-04-14 05:30:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ancient_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-14 20:49:12 +0000"
     },
     "done": true
   },

@@ -203,3 +203,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 20:49:22.936] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
 [14Apr2025 20:49:25.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster froze to death
 [14Apr2025 20:49:25.465] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[14Apr2025 20:59:21.202] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[14Apr2025 20:59:21.204] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved

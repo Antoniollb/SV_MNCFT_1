@@ -5728,5 +5728,11 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-04-14 20:56:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
