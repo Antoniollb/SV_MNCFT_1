@@ -435,3 +435,8 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 05:01:35.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [We Do a Little Trolling]
 [14Apr2025 05:02:04.327] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
 [14Apr2025 05:02:04.328] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[14Apr2025 05:02:43.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [We Do a Little Trolling]
+[14Apr2025 05:02:52.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Ice Bucket Challenge]
+[14Apr2025 05:03:17.920] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[14Apr2025 05:03:17.922] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[14Apr2025 05:06:46.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [We Do a Little Trolling]

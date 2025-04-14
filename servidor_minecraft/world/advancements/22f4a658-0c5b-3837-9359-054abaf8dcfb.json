@@ -4255,9 +4255,10 @@
   },
   "twilightforest:beanstalk": {
     "criteria": {
-      "beans": "2025-04-14 05:00:02 +0000"
+      "beans": "2025-04-14 05:00:02 +0000",
+      "use_beans": "2025-04-14 05:00:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
@@ -4286,6 +4287,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-04-14 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2025-04-14 05:06:46 +0000"
     },
     "done": true
   },

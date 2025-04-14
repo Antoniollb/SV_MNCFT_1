@@ -2444,6 +2444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-04-14 05:02:52 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
     "criteria": {
       "has_item": "2025-04-14 04:24:47 +0000"
@@ -2453,6 +2459,12 @@
   "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
     "criteria": {
       "has_item": "2025-04-14 04:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-14 05:02:52 +0000"
     },
     "done": true
   },
@@ -2477,6 +2489,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-04-14 02:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-14 05:02:52 +0000"
     },
     "done": true
   },

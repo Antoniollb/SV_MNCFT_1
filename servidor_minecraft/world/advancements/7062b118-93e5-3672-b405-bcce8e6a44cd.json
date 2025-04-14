@@ -2704,6 +2704,7 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-03-23 22:37:33 +0000",
+      "mangrove_planks": "2025-04-14 05:01:11 +0000",
       "twilight_oak_stairs": "2025-03-25 21:03:19 +0000",
       "encased_towerwood": "2025-04-12 04:14:55 +0000",
       "twilight_oak_trapdoor": "2025-03-25 03:20:35 +0000",
@@ -2712,6 +2713,7 @@
       "mangrove_log": "2025-04-14 02:35:06 +0000",
       "twilight_oak_log": "2025-03-23 22:36:36 +0000",
       "twilight_oak_wood": "2025-03-23 22:36:57 +0000",
+      "huge_stalk": "2025-04-14 05:00:46 +0000",
       "twilight_oak_sapling": "2025-03-23 22:37:49 +0000",
       "liveroot": "2025-03-29 03:37:42 +0000"
     },
@@ -4726,9 +4728,21 @@
     },
     "done": false
   },
+  "twilightforest:recipes/decorations/wood/mangrove_fence": {
+    "criteria": {
+      "has_item": "2025-04-14 05:01:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-04-14 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2025-04-14 05:01:35 +0000"
     },
     "done": true
   },
@@ -4745,15 +4759,39 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/mangrove_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-14 05:01:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/mangrove_plate": {
+    "criteria": {
+      "has_item": "2025-04-14 05:01:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-04-14 02:43:43 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/mangrove_gate": {
+    "criteria": {
+      "has_item": "2025-04-14 05:01:11 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/food/food/smelted_meef": {
     "criteria": {
       "has_food": "2025-04-14 02:40:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mangrove_slab": {
+    "criteria": {
+      "has_item": "2025-04-14 05:01:11 +0000"
     },
     "done": true
   },
@@ -4769,9 +4807,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/mangrove_button": {
+    "criteria": {
+      "has_item": "2025-04-14 05:01:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_carpet": {
     "criteria": {
       "has_purple_wool": "2025-04-14 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/mangrove_sign": {
+    "criteria": {
+      "has_item": "2025-04-14 05:01:11 +0000"
     },
     "done": true
   },
@@ -4784,6 +4834,12 @@
   "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
     "criteria": {
       "has_item": "2025-04-14 04:25:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mangrove_stairs": {
+    "criteria": {
+      "has_item": "2025-04-14 05:01:11 +0000"
     },
     "done": true
   },
@@ -4829,6 +4885,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/mangrove_door": {
+    "criteria": {
+      "has_item": "2025-04-14 05:01:11 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
     "criteria": {
       "has_item": "2025-04-14 04:25:03 +0000"
@@ -4862,6 +4924,12 @@
   "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
     "criteria": {
       "has_item": "2025-04-14 04:25:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/mangrove_chest": {
+    "criteria": {
+      "has_item": "2025-04-14 05:01:11 +0000"
     },
     "done": true
   },
