@@ -313,3 +313,11 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [14Apr2025 02:59:10.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> la salida
 [14Apr2025 02:59:58.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Into Fire]
 [14Apr2025 03:00:42.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> [name:"aqui", x:-15597, y:-23, z:18890, dim:twilightforest:twilight_forest]
+[14Apr2025 03:03:33.324] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[14Apr2025 03:03:33.325] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[14Apr2025 03:03:35.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio froze to death
+[14Apr2025 03:03:35.324] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[14Apr2025 03:10:00.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> ya vuelvp
+[14Apr2025 03:10:02.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[14Apr2025 03:10:02.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[14Apr2025 03:10:02.324] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
