@@ -339,3 +339,23 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [15Apr2025 16:48:47.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has completed the challenge [Cover Me in Debris]
 [15Apr2025 16:49:16.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff was slain by Mutant Zombie
 [15Apr2025 16:49:47.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff moved too quickly! 1.6067964731846587,4.072427803680441,-9.03815929223083
+[15Apr2025 16:56:49.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Disconnected
+[15Apr2025 16:56:49.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
+[15Apr2025 16:56:49.317] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
+[15Apr2025 16:57:36.017] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Disconnected
+[15Apr2025 16:57:36.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[15Apr2025 16:57:36.017] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[15Apr2025 17:02:59.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Apr2025 17:02:59.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Apr2025 17:02:59.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Apr2025 17:02:59.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Apr2025 17:02:59.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Apr2025 17:03:00.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Apr2025 17:03:00.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[15Apr2025 17:03:00.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Apr2025 17:03:01.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Apr2025 17:03:01.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Apr2025 17:03:01.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[15Apr2025 17:03:01.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Apr2025 17:03:01.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Apr2025 17:03:01.097] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
