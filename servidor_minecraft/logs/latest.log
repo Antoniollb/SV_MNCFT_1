@@ -222,3 +222,19 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [15Apr2025 03:25:54.445] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
 [15Apr2025 03:25:54.455] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
 [15Apr2025 03:26:14.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster drowned
+[15Apr2025 03:28:08.488] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[15Apr2025 03:28:08.490] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[15Apr2025 03:28:16.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster burned to death
+[15Apr2025 03:33:01.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Me desconecto temprano
+[15Apr2025 03:33:22.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> Adios
+[15Apr2025 03:33:33.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> yo igual en unos minuto
+[15Apr2025 03:35:12.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> adios
+[15Apr2025 03:35:14.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Disconnected
+[15Apr2025 03:35:14.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[15Apr2025 03:35:14.294] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[15Apr2025 03:36:17.380] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[15Apr2025 03:36:17.388] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[15Apr2025 03:36:39.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio was obliterated by a sonically-charged shriek
+[15Apr2025 03:38:03.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[15Apr2025 03:38:03.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[15Apr2025 03:38:03.285] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster

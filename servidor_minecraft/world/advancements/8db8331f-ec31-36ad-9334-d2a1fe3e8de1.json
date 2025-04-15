@@ -2512,5 +2512,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-15 03:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-15 03:31:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
