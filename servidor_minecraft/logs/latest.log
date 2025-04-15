@@ -189,3 +189,21 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [15Apr2025 14:41:16.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> hazme tp
 [15Apr2025 14:41:25.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
 [15Apr2025 14:48:01.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Who is Cutting Onions?]
+[15Apr2025 14:51:35.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.187.213.183:45531] logged in with entity id 7821 at (-1820.6087717618916, 64.0, 2535.31220777128)
+[15Apr2025 14:51:35.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[15Apr2025 14:51:36.485] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[15Apr2025 14:51:36.486] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[15Apr2025 14:51:46.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[15Apr2025 14:51:47.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[15Apr2025 14:51:47.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
+[15Apr2025 14:51:55.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> NO DUERMEN USTEDES
+[15Apr2025 14:52:05.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Timed out
+[15Apr2025 14:52:05.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
+[15Apr2025 14:52:05.232] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
+[15Apr2025 14:52:07.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> TIENS OBISIDIANA
+[15Apr2025 14:52:46.066] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d9c17[id=<null>,name=MATTBXB,properties={},legacy=false] (/127.187.213.183:37877) lost connection: Disconnected
+[15Apr2025 14:53:22.262] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@425d2c2f[id=<null>,name=MATTBXB,properties={},legacy=false] (/127.187.213.183:45963) lost connection: Disconnected
+[15Apr2025 14:56:44.472] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[15Apr2025 14:56:44.476] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[15Apr2025 14:56:46.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster froze to death
+[15Apr2025 14:56:46.474] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved

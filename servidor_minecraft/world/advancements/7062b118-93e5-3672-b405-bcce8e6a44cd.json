@@ -5006,5 +5006,17 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-15 14:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-04-15 14:48:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
