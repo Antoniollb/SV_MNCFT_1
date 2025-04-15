@@ -313,3 +313,22 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [15Apr2025 16:29:35.830] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
 [15Apr2025 16:30:26.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff was slain by Mutant Zombie
 [15Apr2025 16:32:06.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Not of Chocolate]
+[15Apr2025 16:35:39.933] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[15Apr2025 16:35:39.945] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[15Apr2025 16:36:26.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff was slain by Mutant Zombie
+[15Apr2025 16:37:23.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff moved too quickly! -10.1849238917182,1.1661092609382138,-0.26717095052663353
+[15Apr2025 16:37:25.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff moved wrongly!
+[15Apr2025 16:38:08.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[15Apr2025 16:38:08.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[15Apr2025 16:38:08.572] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
+[15Apr2025 16:38:27.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Magic Recycling]
+[15Apr2025 16:38:42.469] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[15Apr2025 16:38:42.474] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[15Apr2025 16:38:56.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff was blown up by Creeper
+[15Apr2025 16:41:25.911] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[15Apr2025 16:41:25.917] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[15Apr2025 16:41:41.809] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[15Apr2025 16:41:41.813] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[15Apr2025 16:42:00.809] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[15Apr2025 16:42:00.814] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[15Apr2025 16:42:39.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Hydra Chop, Baby!]
