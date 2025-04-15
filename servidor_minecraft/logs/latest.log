@@ -207,3 +207,11 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [15Apr2025 14:56:44.476] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
 [15Apr2025 14:56:46.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster froze to death
 [15Apr2025 14:56:46.474] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[15Apr2025 15:01:56.524] [Worker-Main-2/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1353682252,-1439086332,-1319302581,-624197741],type:"minecraft:entity",y_offset:0.36f}}]
+[15Apr2025 15:17:08.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.187.213.183:55317] logged in with entity id 16037 at (-1815.8258168380298, 64.0, 2527.826070011391)
+[15Apr2025 15:17:08.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[15Apr2025 15:17:09.492] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[15Apr2025 15:17:09.493] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[15Apr2025 15:17:20.735] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[15Apr2025 15:17:21.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[15Apr2025 15:17:21.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat

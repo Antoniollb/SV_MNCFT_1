@@ -28,6 +28,7 @@
       "minecraft:snowy_taiga": "2025-03-21 15:31:29 +0000",
       "minecraft:dripstone_caves": "2025-03-23 04:16:52 +0000",
       "minecraft:swamp": "2025-03-27 03:53:30 +0000",
+      "minecraft:grove": "2025-04-15 14:57:55 +0000",
       "minecraft:jagged_peaks": "2025-04-15 03:54:52 +0000",
       "minecraft:cold_ocean": "2025-03-22 21:32:06 +0000",
       "minecraft:forest": "2025-03-20 14:30:51 +0000",
@@ -5012,9 +5013,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-15 15:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-04-15 14:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-15 15:14:25 +0000"
     },
     "done": true
   },
