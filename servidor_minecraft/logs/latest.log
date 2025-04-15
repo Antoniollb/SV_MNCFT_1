@@ -234,3 +234,10 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [15Apr2025 15:27:27.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> ?
 [15Apr2025 15:27:31.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> ok
 [15Apr2025 15:27:36.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported MATTBXB to DavidMaster]
+[15Apr2025 15:34:09.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=51, z=-646} BlockPos{x=-803, y=50, z=-647}
+[15Apr2025 15:34:09.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=51, z=-646} BlockPos{x=-803, y=50, z=-647}
+[15Apr2025 15:34:09.882] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=51, z=-646} BlockPos{x=-803, y=50, z=-647}
+[15Apr2025 15:35:42.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Spooky Scary Citadel]
+[15Apr2025 15:35:49.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Spooky Scary Citadel]
+[15Apr2025 15:36:38.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Spooky Scary Citadel]
+[15Apr2025 15:38:49.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Hidden in the Depths]
