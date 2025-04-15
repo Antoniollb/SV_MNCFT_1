@@ -2318,9 +2318,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/fiery_fiery_boots": {
+  "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
-      "has_item": "2025-04-14 04:24:47 +0000"
+      "entered_deep_crypt": "2025-04-14 02:14:29 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-04-14 02:18:16 +0000"
     },
     "done": true
   },
@@ -2330,16 +2336,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-14 02:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-14 02:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-14 02:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-14 02:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-14 02:51:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2025-04-14 03:22:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2025-04-14 03:22:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2025-04-14 03:22:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-14 04:05:49 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
     "criteria": {
       "has_item": "2025-04-14 04:08:07 +0000"
     },
     "done": true
   },
-  "twilightforest:progress_troll": {
+  "twilightforest:recipes/building_blocks/maze_stone/mossy_mazestone": {
     "criteria": {
-      "previous_progression": "2025-04-14 04:48:59 +0000",
-      "lamp": "2025-04-14 05:30:27 +0000"
+      "has_item": "2025-04-14 04:08:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-14 04:10:33 +0000"
     },
     "done": true
   },
@@ -2350,27 +2415,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-04-14 02:51:11 +0000"
-    },
-    "done": true
-  },
   "twilightforest:twilight_dinner": {
     "criteria": {
       "meef_stroganoff": "2025-04-14 04:16:14 +0000"
     },
     "done": false
   },
-  "dungeons_enhanced:seven_world_wonders": {
+  "twilightforest:recipes/combat/equipment/fiery_fiery_boots": {
     "criteria": {
-      "entered_deep_crypt": "2025-04-14 02:14:29 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/food/food/smelted_meef": {
-    "criteria": {
-      "has_food": "2025-04-14 03:22:34 +0000"
+      "has_item": "2025-04-14 04:24:47 +0000"
     },
     "done": true
   },
@@ -2380,81 +2433,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-04-14 05:30:48 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/hydra_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-04-14 04:39:11 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/campfired_meef": {
-    "criteria": {
-      "has_food": "2025-04-14 03:22:34 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/consume_soul": {
-    "criteria": {
-      "coded_trigger": "2025-04-14 02:18:16 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2025-04-14 04:10:33 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
     "criteria": {
       "has_item": "2025-04-14 04:24:47 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-04-14 04:48:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-04-14 02:44:12 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/smoked_meef": {
-    "criteria": {
-      "has_food": "2025-04-14 03:22:34 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/maze_stone/mossy_mazestone": {
-    "criteria": {
-      "has_item": "2025-04-14 04:08:07 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
     "criteria": {
       "has_item": "2025-04-14 04:24:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-04-14 02:44:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-04-14 05:02:52 +0000"
     },
     "done": true
   },
@@ -2470,33 +2457,46 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-04-14 05:02:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-04-14 04:05:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-04-14 02:44:12 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
     "criteria": {
       "has_item": "2025-04-14 04:24:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "twilightforest:recipes/misc/hydra_banner_pattern": {
     "criteria": {
-      "has_brown_mushroom": "2025-04-14 02:51:11 +0000"
+      "has_trophy": "2025-04-14 04:39:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2025-04-14 04:48:59 +0000",
+      "lamp": "2025-04-14 05:30:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-14 04:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-04-14 05:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-14 05:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-14 05:02:52 +0000"
     },
     "done": true
   },
@@ -2506,9 +2506,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_obsidian": "2025-04-14 05:02:52 +0000"
+      "has_dandelion": "2025-04-14 05:30:48 +0000"
     },
     "done": true
   },

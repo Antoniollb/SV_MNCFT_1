@@ -4429,6 +4429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-14 20:02:00 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ancient_knowledge": {
     "criteria": {
       "coded_trigger": "2025-04-14 20:49:12 +0000"
@@ -4438,12 +4444,6 @@
   "tombstone:adventure/use_home": {
     "criteria": {
       "coded_trigger": "2025-04-14 21:04:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-04-14 20:02:00 +0000"
     },
     "done": true
   },

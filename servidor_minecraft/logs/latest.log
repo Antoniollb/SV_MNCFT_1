@@ -183,3 +183,31 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [15Apr2025 02:47:12.749] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
 [15Apr2025 02:47:13.770] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
 [15Apr2025 02:47:13.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[15Apr2025 02:47:29.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff moved too quickly! 7.952156064879546,-2.0,-5.937958643078673
+[15Apr2025 03:04:43.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Timed out
+[15Apr2025 03:04:43.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[15Apr2025 03:04:43.589] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[15Apr2025 03:04:51.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Timed out
+[15Apr2025 03:04:51.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[15Apr2025 03:04:51.075] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
+[15Apr2025 03:05:23.170] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4aca5cb5[id=<null>,name=mastercheeffff,properties={},legacy=false] (/127.155.88.47:43413): Took too long to log in
+[15Apr2025 03:05:23.171] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4aca5cb5[id=<null>,name=mastercheeffff,properties={},legacy=false] (/127.155.88.47:43413) lost connection: Took too long to log in
+[15Apr2025 03:05:23.217] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Apr2025 03:05:27.517] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76c4a93b[id=<null>,name=DavidMaster,properties={},legacy=false] (/127.28.127.113:48013) lost connection: Disconnected
+[15Apr2025 03:05:44.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.28.127.113:44045] logged in with entity id 8338 at (-2121.699999988079, 125.0, 2417.300000011921)
+[15Apr2025 03:05:44.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
+[15Apr2025 03:05:45.635] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
+[15Apr2025 03:05:45.636] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[15Apr2025 03:05:50.692] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[15Apr2025 03:05:51.842] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[15Apr2025 03:05:51.842] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[15Apr2025 03:05:54.926] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1af4d94d[id=<null>,name=mastercheeffff,properties={},legacy=false] (/127.155.88.47:55273) lost connection: Disconnected
+[15Apr2025 03:06:07.136] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.155.88.47:55101] logged in with entity id 8873 at (-1828.0528217694673, 63.49520087700592, 2504.8307163105724)
+[15Apr2025 03:06:07.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[15Apr2025 03:06:07.618] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[15Apr2025 03:06:07.619] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[15Apr2025 03:06:11.863] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[15Apr2025 03:06:12.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[15Apr2025 03:06:12.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[15Apr2025 03:07:35.291] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[15Apr2025 03:07:35.292] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
