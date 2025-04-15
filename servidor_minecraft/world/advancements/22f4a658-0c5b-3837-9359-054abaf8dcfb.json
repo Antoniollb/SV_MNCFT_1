@@ -222,6 +222,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-13 05:30:24 +0000",
+      "minecraft:blaze": "2025-04-15 15:45:56 +0000",
       "minecraft:skeleton": "2025-03-22 05:02:20 +0000",
       "minecraft:hoglin": "2025-04-15 15:27:34 +0000",
       "minecraft:vindicator": "2025-03-27 03:24:10 +0000",
@@ -4452,6 +4453,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_mercy": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-15 15:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-04-15 14:47:11 +0000"
@@ -4500,6 +4507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-04-15 15:47:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-04-15 15:04:13 +0000"
@@ -4509,6 +4522,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-15 15:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-04-15 15:47:10 +0000"
     },
     "done": true
   },
@@ -4551,6 +4570,18 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-04-15 15:39:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-15 15:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-15 15:45:38 +0000"
     },
     "done": true
   },

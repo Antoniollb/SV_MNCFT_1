@@ -241,3 +241,14 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [15Apr2025 15:35:49.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Spooky Scary Citadel]
 [15Apr2025 15:36:38.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Spooky Scary Citadel]
 [15Apr2025 15:38:49.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Hidden in the Depths]
+[15Apr2025 15:43:59.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-795, y=36, z=-832} BlockPos{x=-795, y=35, z=-832}
+[15Apr2025 15:45:23.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [A Terrible Fortress]
+[15Apr2025 15:45:38.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [A Terrible Fortress]
+[15Apr2025 15:45:46.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [A Terrible Fortress]
+[15Apr2025 15:47:01.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Magic Writing]
+[15Apr2025 15:47:25.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [A self-respecting Soul]
+[15Apr2025 15:49:11.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved wrongly!
+[15Apr2025 15:51:50.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.155.88.47:57349] logged in with entity id 25615 at (-1913.4733643193213, 63.0, 2528.1597837354984)
+[15Apr2025 15:51:50.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[15Apr2025 15:51:52.789] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[15Apr2025 15:51:52.789] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
