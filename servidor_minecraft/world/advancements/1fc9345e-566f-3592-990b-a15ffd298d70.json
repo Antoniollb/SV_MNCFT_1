@@ -5993,6 +5993,18 @@
     },
     "done": true
   },
+  "twilightforest:hydra_chop": {
+    "criteria": {
+      "hydra_chop": "2025-04-15 16:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-04-15 16:48:47 +0000"
+    },
+    "done": true
+  },
   "twilightforest:fiery_set": {
     "criteria": {
       "fiery_pick": "2025-04-15 16:35:18 +0000"

@@ -332,3 +332,10 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [15Apr2025 16:42:00.809] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
 [15Apr2025 16:42:00.814] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
 [15Apr2025 16:42:39.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Hydra Chop, Baby!]
+[15Apr2025 16:43:16.875] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[15Apr2025 16:43:16.876] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[15Apr2025 16:48:16.769] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[15Apr2025 16:48:16.783] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[15Apr2025 16:48:47.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has completed the challenge [Cover Me in Debris]
+[15Apr2025 16:49:16.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff was slain by Mutant Zombie
+[15Apr2025 16:49:47.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff moved too quickly! 1.6067964731846587,4.072427803680441,-9.03815929223083
