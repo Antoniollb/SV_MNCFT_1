@@ -306,3 +306,10 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [15Apr2025 16:14:52.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has completed the challenge [Subspace Bubble]
 [15Apr2025 16:14:52.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported DavidMaster to MATTBXB
 [15Apr2025 16:15:03.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported mastercheeffff to MATTBXB
+[15Apr2025 16:23:33.222] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[15Apr2025 16:23:33.224] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[15Apr2025 16:24:33.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
+[15Apr2025 16:29:35.814] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[15Apr2025 16:29:35.830] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[15Apr2025 16:30:26.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff was slain by Mutant Zombie
+[15Apr2025 16:32:06.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Not of Chocolate]
