@@ -4695,7 +4695,147 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-04-14 01:57:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_lost_tablet_village": {
+    "criteria": {
+      "coded_trigger": "2025-04-14 02:03:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mangrove_wood": {
+    "criteria": {
+      "has_item": "2025-04-14 02:35:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mangrove_planks": {
+    "criteria": {
+      "has_item": "2025-04-14 02:35:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2025-04-14 02:40:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2025-04-14 02:40:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2025-04-14 02:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-14 02:43:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-14 02:43:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-14 02:43:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/ore_map": {
+    "criteria": {
+      "has_item": "2025-04-14 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-14 02:51:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
+    "criteria": {
+      "has_item": "2025-04-14 03:01:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/maze_stone/mossy_mazestone": {
+    "criteria": {
+      "has_item": "2025-04-14 03:01:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/maze_map": {
+    "criteria": {
+      "has_item": "2025-04-14 03:40:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-04-14 04:16:03 +0000",
+      "was_in_fight": "2025-04-14 04:23:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2025-04-14 04:23:58 +0000",
+      "lamp": "2025-04-14 05:30:20 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/fiery_fiery_boots": {
+    "criteria": {
+      "has_item": "2025-04-14 04:25:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
+    "criteria": {
+      "has_item": "2025-04-14 04:25:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-14 04:25:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
+    "criteria": {
+      "has_item": "2025-04-14 04:25:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
+    "criteria": {
+      "has_item": "2025-04-14 04:25:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-14 04:25:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
     "criteria": {
       "has_item": "2025-04-14 04:25:03 +0000"
     },
@@ -4704,12 +4844,6 @@
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-04-14 04:37:32 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
-    "criteria": {
-      "has_item": "2025-04-14 03:01:27 +0000"
     },
     "done": true
   },
@@ -4725,41 +4859,33 @@
     },
     "done": true
   },
-  "twilightforest:progress_troll": {
-    "criteria": {
-      "previous_progression": "2025-04-14 04:23:58 +0000",
-      "lamp": "2025-04-14 05:30:20 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/mangrove_fence": {
-    "criteria": {
-      "has_item": "2025-04-14 05:01:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-04-14 04:37:32 +0000"
     },
     "done": true
   },
-  "twilightforest:troll": {
+  "minecraft:recipes/decorations/purple_carpet": {
     "criteria": {
-      "troll": "2025-04-14 05:01:35 +0000"
+      "has_purple_wool": "2025-04-14 04:37:32 +0000"
     },
     "done": true
   },
-  "twilightforest:progress_hydra": {
+  "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
-      "stroganoff": "2025-04-14 04:16:03 +0000",
-      "was_in_fight": "2025-04-14 04:23:58 +0000"
+      "has_purple_wool": "2025-04-14 04:37:32 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/wood/mangrove_wood": {
+  "twilightforest:recipes/misc/hydra_banner_pattern": {
     "criteria": {
-      "has_item": "2025-04-14 02:35:06 +0000"
+      "has_trophy": "2025-04-14 04:39:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/mangrove_fence": {
+    "criteria": {
+      "has_item": "2025-04-14 05:01:11 +0000"
     },
     "done": true
   },
@@ -4775,21 +4901,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-04-14 02:43:43 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/redstone/wood/mangrove_gate": {
     "criteria": {
       "has_item": "2025-04-14 05:01:11 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/smelted_meef": {
-    "criteria": {
-      "has_food": "2025-04-14 02:40:05 +0000"
     },
     "done": true
   },
@@ -4799,27 +4913,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
-    "criteria": {
-      "has_item": "2025-04-14 04:25:03 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/hydra_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-04-14 04:39:23 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/redstone/wood/mangrove_button": {
     "criteria": {
       "has_item": "2025-04-14 05:01:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2025-04-14 04:37:32 +0000"
     },
     "done": true
   },
@@ -4829,93 +4925,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/food/food/campfired_meef": {
-    "criteria": {
-      "has_food": "2025-04-14 02:40:05 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-14 04:25:03 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/building_blocks/wood/mangrove_stairs": {
     "criteria": {
       "has_item": "2025-04-14 05:01:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_banner": {
-    "criteria": {
-      "has_purple_wool": "2025-04-14 04:37:32 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/tools/equipment/giant_sword": {
-    "criteria": {
-      "has_item": "2025-04-14 05:17:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-04-14 05:30:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/giant_cobblestone_to_cobblestone": {
-    "criteria": {
-      "has_item": "2025-04-14 05:17:10 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/rainy_cloud": {
-    "criteria": {
-      "has_item": "2025-04-14 05:20:01 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/smoked_meef": {
-    "criteria": {
-      "has_food": "2025-04-14 02:40:05 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/maze_stone/mossy_mazestone": {
-    "criteria": {
-      "has_item": "2025-04-14 03:01:27 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
-    "criteria": {
-      "has_item": "2025-04-14 04:25:03 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/maze_map": {
-    "criteria": {
-      "has_item": "2025-04-14 03:40:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-04-14 01:57:54 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/giant_log_to_oak_planks": {
-    "criteria": {
-      "has_item": "2025-04-14 05:16:58 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
-    "criteria": {
-      "has_item": "2025-04-14 04:25:03 +0000"
     },
     "done": true
   },
@@ -4925,27 +4937,33 @@
     },
     "done": true
   },
-  "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
+  "twilightforest:recipes/decorations/wood/mangrove_chest": {
     "criteria": {
-      "has_item": "2025-04-14 04:25:03 +0000"
+      "has_item": "2025-04-14 05:01:11 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/find_lost_tablet_village": {
+  "twilightforest:troll": {
     "criteria": {
-      "coded_trigger": "2025-04-14 02:03:47 +0000"
+      "troll": "2025-04-14 05:01:35 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/wood/mangrove_planks": {
+  "twilightforest:recipes/building_blocks/giant_log_to_oak_planks": {
     "criteria": {
-      "has_item": "2025-04-14 02:35:06 +0000"
+      "has_item": "2025-04-14 05:16:58 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+  "twilightforest:recipes/tools/equipment/giant_sword": {
     "criteria": {
-      "has_trophy": "2025-04-14 02:51:29 +0000"
+      "has_item": "2025-04-14 05:17:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/giant_cobblestone_to_cobblestone": {
+    "criteria": {
+      "has_item": "2025-04-14 05:17:10 +0000"
     },
     "done": true
   },
@@ -4955,21 +4973,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "twilightforest:recipes/building_blocks/rainy_cloud": {
     "criteria": {
-      "has_blaze_rod": "2025-04-14 02:43:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-04-14 05:30:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
-    "criteria": {
-      "has_item": "2025-04-14 04:25:03 +0000"
+      "has_item": "2025-04-14 05:20:01 +0000"
     },
     "done": true
   },
@@ -4985,21 +4991,15 @@
     },
     "done": false
   },
-  "twilightforest:recipes/decorations/wood/mangrove_chest": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "has_item": "2025-04-14 05:01:11 +0000"
+      "has_oxeye_daisy": "2025-04-14 05:30:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
-      "has_blaze_rod": "2025-04-14 02:43:43 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/ore_map": {
-    "criteria": {
-      "has_item": "2025-04-14 02:47:47 +0000"
+      "has_oxeye_daisy": "2025-04-14 05:30:50 +0000"
     },
     "done": true
   },

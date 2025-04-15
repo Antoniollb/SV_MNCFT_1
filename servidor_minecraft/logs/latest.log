@@ -211,3 +211,14 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [15Apr2025 03:06:12.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
 [15Apr2025 03:07:35.291] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
 [15Apr2025 03:07:35.292] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[15Apr2025 03:08:05.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff was shot by Skeleton
+[15Apr2025 03:16:32.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.187.213.183:53651] logged in with entity id 12660 at (-1891.5410719055099, 70.0, 2540.5702287030313)
+[15Apr2025 03:16:32.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
+[15Apr2025 03:16:33.490] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
+[15Apr2025 03:16:33.491] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[15Apr2025 03:16:41.712] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[15Apr2025 03:16:42.724] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[15Apr2025 03:16:42.724] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[15Apr2025 03:25:54.445] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[15Apr2025 03:25:54.455] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[15Apr2025 03:26:14.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster drowned
