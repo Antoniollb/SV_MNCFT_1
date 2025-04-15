@@ -215,3 +215,22 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [15Apr2025 15:17:20.735] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
 [15Apr2025 15:17:21.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
 [15Apr2025 15:17:21.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
+[15Apr2025 15:23:14.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
+[15Apr2025 15:25:55.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Disconnected
+[15Apr2025 15:25:55.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[15Apr2025 15:25:55.523] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[15Apr2025 15:26:38.021] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6dbbbb83[id=<null>,name=Antonio,properties={},legacy=false] (/127.187.213.183:52889) lost connection: Disconnected
+[15Apr2025 15:26:41.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Not of Chocolate]
+[15Apr2025 15:26:53.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.187.213.183:48601] logged in with entity id 20037 at (-662.8675392988939, 69.0, -540.181835845266)
+[15Apr2025 15:26:53.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
+[15Apr2025 15:26:53.776] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
+[15Apr2025 15:26:53.776] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[15Apr2025 15:27:00.404] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[15Apr2025 15:27:01.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[15Apr2025 15:27:01.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[15Apr2025 15:27:12.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Manuel encontramos hongos de para el libro de reciclaje
+[15Apr2025 15:27:23.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> LOS DOS TIPOS
+[15Apr2025 15:27:27.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> yes
+[15Apr2025 15:27:27.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> ?
+[15Apr2025 15:27:31.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> ok
+[15Apr2025 15:27:36.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported MATTBXB to DavidMaster]

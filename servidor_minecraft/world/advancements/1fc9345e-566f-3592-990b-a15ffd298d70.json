@@ -4416,6 +4416,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-04-15 15:27:37 +0000",
       "minecraft:nether_wastes": "2025-04-03 05:31:14 +0000",
       "minecraft:basalt_deltas": "2025-04-03 05:32:14 +0000"
     },
@@ -5733,6 +5734,12 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-04-14 20:56:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_strange_tablet": {
+    "criteria": {
+      "has_strange_tablet": "2025-04-15 15:26:41 +0000"
     },
     "done": true
   },

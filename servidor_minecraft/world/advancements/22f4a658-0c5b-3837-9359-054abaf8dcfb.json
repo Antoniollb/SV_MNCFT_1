@@ -222,6 +222,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-13 05:30:24 +0000",
       "minecraft:skeleton": "2025-03-22 05:02:20 +0000",
+      "minecraft:hoglin": "2025-04-15 15:27:34 +0000",
       "minecraft:vindicator": "2025-03-27 03:24:10 +0000",
       "minecraft:magma_cube": "2025-04-14 20:54:10 +0000",
       "minecraft:spider": "2025-03-22 04:25:34 +0000",
@@ -231,6 +232,7 @@
       "minecraft:zombified_piglin": "2025-04-03 05:43:09 +0000",
       "minecraft:witch": "2025-03-31 04:07:23 +0000",
       "minecraft:cave_spider": "2025-03-24 02:42:22 +0000",
+      "minecraft:piglin": "2025-04-15 15:24:37 +0000",
       "minecraft:enderman": "2025-03-25 02:36:35 +0000",
       "minecraft:endermite": "2025-03-31 05:00:56 +0000",
       "minecraft:vex": "2025-03-27 03:33:57 +0000",
@@ -3360,6 +3362,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-04-15 15:23:15 +0000",
       "minecraft:nether_wastes": "2025-04-03 05:31:09 +0000",
       "minecraft:basalt_deltas": "2025-04-03 05:32:16 +0000"
     },
@@ -4453,6 +4456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-04-15 15:25:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
     "criteria": {
       "has_pitcher_plant": "2025-04-15 15:13:23 +0000"
@@ -4474,6 +4483,18 @@
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-04-15 15:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-15 15:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-04-15 15:23:27 +0000"
     },
     "done": true
   },

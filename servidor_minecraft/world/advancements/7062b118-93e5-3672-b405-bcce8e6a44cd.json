@@ -3839,6 +3839,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-04-15 15:23:16 +0000",
       "minecraft:nether_wastes": "2025-04-03 05:31:31 +0000",
       "minecraft:basalt_deltas": "2025-04-03 05:32:01 +0000"
     },
@@ -5013,15 +5014,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-04-15 15:14:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-04-15 14:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-15 15:14:25 +0000"
     },
     "done": true
   },
