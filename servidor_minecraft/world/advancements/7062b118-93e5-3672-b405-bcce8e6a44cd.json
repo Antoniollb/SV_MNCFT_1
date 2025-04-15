@@ -5090,6 +5090,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-15 15:55:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-15 15:45:37 +0000"
@@ -5123,6 +5129,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-04-15 15:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-15 15:55:43 +0000"
     },
     "done": true
   },

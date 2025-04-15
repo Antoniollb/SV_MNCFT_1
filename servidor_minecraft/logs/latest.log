@@ -252,3 +252,57 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [15Apr2025 15:51:50.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
 [15Apr2025 15:51:52.789] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
 [15Apr2025 15:51:52.789] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[15Apr2025 15:52:06.153] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[15Apr2025 15:52:07.131] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[15Apr2025 15:52:07.131] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[15Apr2025 15:52:47.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> donde estan
+[15Apr2025 15:52:56.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> nether
+[15Apr2025 15:55:01.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1 timed out
+[15Apr2025 15:55:01.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player mastercheeffff
+[15Apr2025 15:55:01.006] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[15Apr2025 15:55:05.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Timed out
+[15Apr2025 15:55:05.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[15Apr2025 15:55:05.768] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[15Apr2025 15:55:43.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Spooky Scary Skeleton]
+[15Apr2025 15:55:54.315] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@44a99c31[id=<null>,name=mastercheeffff,properties={},legacy=false] (/127.155.88.47:37547) lost connection: Disconnected
+[15Apr2025 15:56:21.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.155.88.47:35625] logged in with entity id 27471 at (-196.60876225516014, 60.0, 331.4290294153107)
+[15Apr2025 15:56:21.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[15Apr2025 15:56:22.091] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[15Apr2025 15:56:22.092] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[15Apr2025 15:56:28.335] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[15Apr2025 15:56:29.333] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[15Apr2025 15:56:29.333] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[15Apr2025 15:56:52.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> antonio dame tp
+[15Apr2025 15:57:04.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to DavidMaster]
+[15Apr2025 15:57:50.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [A Terrible Fortress]
+[15Apr2025 16:00:09.619] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[15Apr2025 16:00:09.620] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[15Apr2025 16:00:13.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff tried to swim in lava
+[15Apr2025 16:00:13.120] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[15Apr2025 16:00:39.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> zabier en la lava no se nada
+[15Apr2025 16:00:54.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> jajajajaj
+[15Apr2025 16:01:11.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio moved wrongly!
+[15Apr2025 16:03:52.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio moved wrongly!
+[15Apr2025 16:07:33.268] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[15Apr2025 16:07:33.269] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[15Apr2025 16:07:54.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> me ayunda
+[15Apr2025 16:08:30.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to Antonio]
+[15Apr2025 16:11:47.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3299ms or 65 ticks behind
+[15Apr2025 16:12:12.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Timed out
+[15Apr2025 16:12:12.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[15Apr2025 16:12:12.972] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[15Apr2025 16:12:13.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Timed out
+[15Apr2025 16:12:13.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
+[15Apr2025 16:12:13.374] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
+[15Apr2025 16:12:25.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.187.213.183:35277] logged in with entity id 32377 at (-1887.5, 77.1, 2521.5)
+[15Apr2025 16:12:25.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[15Apr2025 16:12:26.379] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[15Apr2025 16:12:26.380] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[15Apr2025 16:12:29.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[15Apr2025 16:12:30.064] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[15Apr2025 16:12:30.064] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
+[15Apr2025 16:12:56.269] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c15f17d[id=<null>,name=Antonio,properties={},legacy=false] (/127.187.213.183:56293) lost connection: Disconnected
+[15Apr2025 16:13:58.372] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20e3c738[id=<null>,name=Antonio,properties={},legacy=false] (/127.187.213.183:54827) lost connection: Disconnected
+[15Apr2025 16:14:52.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has completed the challenge [Subspace Bubble]
+[15Apr2025 16:14:52.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported DavidMaster to MATTBXB
+[15Apr2025 16:15:03.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported mastercheeffff to MATTBXB

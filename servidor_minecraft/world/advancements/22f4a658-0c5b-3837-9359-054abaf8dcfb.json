@@ -233,6 +233,7 @@
       "minecraft:phantom": "2025-03-30 22:40:48 +0000",
       "minecraft:zombified_piglin": "2025-04-03 05:43:09 +0000",
       "minecraft:witch": "2025-03-31 04:07:23 +0000",
+      "minecraft:wither_skeleton": "2025-04-15 15:58:06 +0000",
       "minecraft:cave_spider": "2025-03-24 02:42:22 +0000",
       "minecraft:piglin": "2025-04-15 15:24:37 +0000",
       "minecraft:enderman": "2025-03-25 02:36:35 +0000",
@@ -4453,6 +4454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-04-15 16:07:16 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_mercy": {
     "criteria": {
       "has_magic_scroll": "2025-04-15 15:47:25 +0000"
@@ -4570,6 +4577,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-04-15 15:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-04-15 16:14:52 +0000"
     },
     "done": true
   },
