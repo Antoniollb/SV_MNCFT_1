@@ -191,3 +191,14 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [16Apr2025 15:42:51.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> nether
 [16Apr2025 15:43:33.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> porque hay un golem tuyo en el nether
 [16Apr2025 15:44:24.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> de seguro entro sin quere
+[16Apr2025 15:45:40.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> no te veo
+[16Apr2025 15:45:44.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> hazme tp
+[16Apr2025 15:45:57.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> no estoy en ese nether
+[16Apr2025 15:46:14.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> estoy donde esta el castillo
+[16Apr2025 15:46:27.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> y como llegaste hasta ay
+[16Apr2025 15:46:38.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
+[16Apr2025 15:48:10.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3245ms or 64 ticks behind
+[16Apr2025 15:48:10.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster moved too quickly! 10.228083063151985,0.0,0.09612950062432901
+[16Apr2025 15:48:17.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
+[16Apr2025 15:49:51.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Not of Chocolate]
+[16Apr2025 15:50:47.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Quickly Applied]
