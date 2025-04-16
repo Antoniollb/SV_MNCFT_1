@@ -215,3 +215,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [16Apr2025 16:13:12.112] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
 [16Apr2025 16:14:47.109] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
 [16Apr2025 16:14:47.142] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[16Apr2025 16:18:16.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Surge Protector]
+[16Apr2025 16:23:32.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Disconnected
+[16Apr2025 16:23:32.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[16Apr2025 16:23:33.002] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
