@@ -4689,6 +4689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2025-04-16 20:56:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-04-16 20:16:40 +0000"
@@ -4722,6 +4728,12 @@
   "minecraft:husbandry/silk_touch_nest": {
     "criteria": {
       "silk_touch_nest": "2025-04-16 20:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-04-16 20:55:26 +0000"
     },
     "done": true
   },
@@ -4761,6 +4773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-04-16 20:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-04-16 20:16:46 +0000"
@@ -4782,6 +4800,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-04-16 20:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-04-16 20:55:26 +0000"
     },
     "done": true
   },
@@ -4812,6 +4836,12 @@
   "tombstone:adventure/use_cupidity": {
     "criteria": {
       "coded_trigger": "2025-04-16 19:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-04-16 20:55:26 +0000"
     },
     "done": true
   },
