@@ -3272,6 +3272,7 @@
   "twilightforest:twilight_dinner": {
     "criteria": {
       "meef_stroganoff": "2025-04-14 03:22:08 +0000",
+      "maze_wafer": "2025-04-16 04:04:43 +0000",
       "hydra_chop": "2025-04-14 04:31:32 +0000",
       "experiment_115": "2025-04-12 04:49:53 +0000",
       "cooked_venison": "2025-03-24 02:20:17 +0000"
@@ -6032,6 +6033,12 @@
   "minecraft:recipes/decorations/pink_glazed_terracotta": {
     "criteria": {
       "has_pink_terracotta": "2025-04-16 03:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-04-16 04:08:44 +0000"
     },
     "done": true
   },

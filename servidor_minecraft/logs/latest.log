@@ -214,3 +214,10 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [16Apr2025 03:55:35.531] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
 [16Apr2025 03:56:35.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff was slain by Mutant Zombie
 [16Apr2025 04:02:58.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Ambush]
+[16Apr2025 04:05:48.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Voluntary Exile]
+[16Apr2025 04:10:45.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Fortuitous Militia]
+[16Apr2025 04:13:29.604] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[16Apr2025 04:13:29.620] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[16Apr2025 04:14:15.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has completed the challenge [Hero of the Village]
+[16Apr2025 04:14:23.103] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[16Apr2025 04:14:23.113] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
