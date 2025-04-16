@@ -219,3 +219,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [16Apr2025 16:23:32.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Disconnected
 [16Apr2025 16:23:32.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
 [16Apr2025 16:23:33.002] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[16Apr2025 16:33:33.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Hablamos ahorita
+[16Apr2025 16:33:35.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[16Apr2025 16:33:35.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[16Apr2025 16:33:35.461] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
