@@ -234,3 +234,27 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [16Apr2025 05:00:43.381] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
 [16Apr2025 05:01:20.014] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
 [16Apr2025 05:01:20.016] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[16Apr2025 05:16:30.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Disconnected
+[16Apr2025 05:16:30.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[16Apr2025 05:16:30.409] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[16Apr2025 05:16:56.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Not Even Double-Sided]
+[16Apr2025 05:17:25.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Disconnected
+[16Apr2025 05:17:25.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[16Apr2025 05:17:25.758] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[16Apr2025 05:17:52.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Disconnected
+[16Apr2025 05:17:52.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
+[16Apr2025 05:17:52.706] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
+[16Apr2025 05:19:36.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Apr2025 05:19:36.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Apr2025 05:19:36.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Apr2025 05:19:36.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Apr2025 05:19:36.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Apr2025 05:19:38.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Apr2025 05:19:38.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[16Apr2025 05:19:38.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Apr2025 05:19:38.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Apr2025 05:19:38.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Apr2025 05:19:38.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[16Apr2025 05:19:38.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Apr2025 05:19:38.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Apr2025 05:19:38.680] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

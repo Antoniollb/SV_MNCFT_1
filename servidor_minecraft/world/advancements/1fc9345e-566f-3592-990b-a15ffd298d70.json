@@ -6048,6 +6048,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_strange_scroll": {
+    "criteria": {
+      "has_strange_scroll": "2025-04-16 05:16:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-04-16 04:08:44 +0000"
