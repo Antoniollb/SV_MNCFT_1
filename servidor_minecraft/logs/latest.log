@@ -188,3 +188,15 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [16Apr2025 03:22:48.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
 [16Apr2025 03:22:49.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
 [16Apr2025 03:22:49.088] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[16Apr2025 03:25:22.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1885, y=63, z=2499} BlockPos{x=-1878, y=62, z=2497}
+[16Apr2025 03:32:33.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1023, l='ServerLevel[world]', x=-1900.40, y=66.56, z=2522.11] died, message: 'Farmer was slain by Zombie'
+[16Apr2025 03:32:43.251] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/1042, l='ServerLevel[world]', x=-1898.52, y=66.00, z=2529.30] died, message: 'Librarian was slain by Zombie Villager'
+[16Apr2025 03:32:50.204] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/1022, l='ServerLevel[world]', x=-1900.41, y=67.00, z=2528.03] died, message: 'Cleric was slain by Zombie Villager'
+[16Apr2025 03:32:52.151] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/1041, l='ServerLevel[world]', x=-1900.07, y=66.56, z=2528.84] died, message: 'Butcher was slain by Zombie'
+[16Apr2025 03:32:56.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.155.88.47:51331] logged in with entity id 2947 at (-1913.7800018573334, 71.0, 2529.956027906608)
+[16Apr2025 03:32:56.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[16Apr2025 03:32:58.316] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[16Apr2025 03:32:58.317] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[16Apr2025 03:33:04.635] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[16Apr2025 03:33:05.635] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[16Apr2025 03:33:05.635] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
