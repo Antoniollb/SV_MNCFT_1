@@ -187,3 +187,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [16Apr2025 15:24:38.521] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
 [16Apr2025 15:24:38.521] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
 [16Apr2025 15:34:32.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
+[16Apr2025 15:42:43.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Para donde te fuiste
+[16Apr2025 15:42:51.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> nether
+[16Apr2025 15:43:33.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> porque hay un golem tuyo en el nether
+[16Apr2025 15:44:24.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> de seguro entro sin quere
