@@ -181,3 +181,4 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [16Apr2025 19:17:07.179] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
 [16Apr2025 19:17:07.188] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
 [16Apr2025 19:17:14.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster burned to death
+[16Apr2025 19:50:04.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the weather to rain & thunder
