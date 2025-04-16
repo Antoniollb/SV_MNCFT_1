@@ -193,3 +193,6 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [16Apr2025 20:18:08.720] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18439, l='ServerLevel[world]', x=-1168.85, y=66.00, z=2361.15] died, message: 'Villager was slain by Zombie'
 [16Apr2025 20:18:08.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/18407, l='ServerLevel[world]', x=-1167.70, y=66.00, z=2364.70] died, message: 'Fletcher was slain by Zombie'
 [16Apr2025 20:31:43.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Getting an Upgrade]
+[16Apr2025 20:53:36.124] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[16Apr2025 20:53:36.127] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[16Apr2025 20:53:46.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster blew up
