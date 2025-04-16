@@ -184,3 +184,12 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [16Apr2025 19:50:04.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the weather to rain & thunder
 [16Apr2025 19:55:19.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the weather to clear
 [16Apr2025 20:13:31.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Total Beelocation]
+[16Apr2025 20:17:50.870] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18411, l='ServerLevel[world]', x=-1167.70, y=66.00, z=2364.61] died, message: 'Villager was slain by Zombie'
+[16Apr2025 20:17:57.622] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/18440, l='ServerLevel[world]', x=-1166.25, y=67.00, z=2362.32] died, message: 'Nitwit was slain by Zombie'
+[16Apr2025 20:17:58.177] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18409, l='ServerLevel[world]', x=-1166.30, y=66.00, z=2362.91] died, message: 'Villager was slain by Zombie'
+[16Apr2025 20:18:02.721] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18441, l='ServerLevel[world]', x=-1165.30, y=67.00, z=2362.30] died, message: 'Villager was slain by Zombie'
+[16Apr2025 20:18:04.675] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18434, l='ServerLevel[world]', x=-1168.69, y=66.00, z=2361.94] died, message: 'Villager was slain by Zombie'
+[16Apr2025 20:18:07.784] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18408, l='ServerLevel[world]', x=-1166.30, y=66.05, z=2363.02] died, message: 'Villager was slain by Zombie Villager'
+[16Apr2025 20:18:08.720] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18439, l='ServerLevel[world]', x=-1168.85, y=66.00, z=2361.15] died, message: 'Villager was slain by Zombie'
+[16Apr2025 20:18:08.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/18407, l='ServerLevel[world]', x=-1167.70, y=66.00, z=2364.70] died, message: 'Fletcher was slain by Zombie'
+[16Apr2025 20:31:43.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Getting an Upgrade]

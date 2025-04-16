@@ -19,8 +19,10 @@
       "minecraft:cherry_grove": "2025-03-22 06:24:42 +0000",
       "minecraft:sunflower_plains": "2025-03-22 06:24:31 +0000",
       "minecraft:birch_forest": "2025-04-06 05:24:05 +0000",
+      "minecraft:bamboo_jungle": "2025-04-16 20:40:23 +0000",
       "minecraft:beach": "2025-03-22 04:02:39 +0000",
       "minecraft:dark_forest": "2025-04-06 05:25:59 +0000",
+      "minecraft:sparse_jungle": "2025-04-16 20:15:53 +0000",
       "minecraft:river": "2025-03-22 04:13:57 +0000",
       "minecraft:snowy_plains": "2025-03-22 04:09:21 +0000",
       "minecraft:stony_shore": "2025-03-22 04:23:51 +0000",
@@ -32,7 +34,9 @@
       "minecraft:lush_caves": "2025-04-06 05:52:01 +0000",
       "minecraft:deep_cold_ocean": "2025-04-06 05:19:59 +0000",
       "minecraft:frozen_ocean": "2025-03-22 06:07:47 +0000",
+      "minecraft:desert": "2025-04-16 20:41:44 +0000",
       "minecraft:ocean": "2025-04-06 05:25:35 +0000",
+      "minecraft:jungle": "2025-04-16 20:35:28 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-06 05:19:05 +0000",
       "minecraft:snowy_beach": "2025-03-22 03:48:01 +0000",
       "minecraft:flower_forest": "2025-03-23 03:47:11 +0000",
@@ -4669,6 +4673,48 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-04-16 16:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-04-16 20:16:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-04-16 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2025-04-16 20:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-04-16 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:ragdoll": "2025-04-16 20:22:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-04-16 20:16:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-16 20:31:43 +0000"
     },
     "done": true
   },
