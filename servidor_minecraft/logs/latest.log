@@ -200,3 +200,11 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [16Apr2025 03:33:04.635] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
 [16Apr2025 03:33:05.635] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
 [16Apr2025 03:33:05.635] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[16Apr2025 03:35:56.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Spectral Guardian]
+[16Apr2025 03:39:14.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.187.213.183:60153] logged in with entity id 4299 at (-1816.3047517098726, 64.0, 2525.300000011921)
+[16Apr2025 03:39:14.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[16Apr2025 03:39:16.109] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[16Apr2025 03:39:16.110] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[16Apr2025 03:39:20.322] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[16Apr2025 03:39:21.322] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[16Apr2025 03:39:21.322] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
