@@ -5157,6 +5157,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-04-16 15:50:47 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_strange_tablet": {
     "criteria": {
       "has_strange_tablet": "2025-04-16 15:49:51 +0000"
