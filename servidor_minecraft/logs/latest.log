@@ -225,3 +225,12 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [16Apr2025 04:29:13.672] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
 [16Apr2025 04:29:13.676] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
 [16Apr2025 04:29:30.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff was slain by Mutant Skeleton
+[16Apr2025 04:38:42.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved wrongly!
+[16Apr2025 04:58:01.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Impregnator]
+[16Apr2025 04:58:52.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has completed the challenge [Soul Eater]
+[16Apr2025 05:00:40.365] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[16Apr2025 05:00:40.367] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[16Apr2025 05:00:43.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio froze to death
+[16Apr2025 05:00:43.381] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[16Apr2025 05:01:20.014] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[16Apr2025 05:01:20.016] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved

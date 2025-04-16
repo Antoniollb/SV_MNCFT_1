@@ -6030,6 +6030,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/impregnator": {
+    "criteria": {
+      "coded_trigger": "2025-04-16 04:58:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/soul_eater": {
+    "criteria": {
+      "coded_trigger": "2025-04-16 04:58:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_glazed_terracotta": {
     "criteria": {
       "has_pink_terracotta": "2025-04-16 03:53:16 +0000"

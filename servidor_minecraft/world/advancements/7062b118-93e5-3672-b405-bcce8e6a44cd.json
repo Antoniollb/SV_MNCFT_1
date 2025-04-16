@@ -2724,7 +2724,8 @@
       "huge_stalk": "2025-04-14 05:00:46 +0000",
       "twilight_oak_sapling": "2025-03-23 22:37:49 +0000",
       "liveroot": "2025-03-29 03:37:42 +0000",
-      "giant_log": "2025-04-14 05:16:58 +0000"
+      "giant_log": "2025-04-14 05:16:58 +0000",
+      "twilight_oak_boat": "2025-04-16 04:45:11 +0000"
     },
     "done": false
   },
@@ -5141,6 +5142,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-04-15 15:55:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-04-16 04:43:35 +0000"
     },
     "done": true
   },
