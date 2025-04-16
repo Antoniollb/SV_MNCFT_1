@@ -2595,15 +2595,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "tombstone:adventure/ambush": {
     "criteria": {
-      "voluntary_exile": "2025-04-16 04:05:48 +0000"
+      "coded_trigger": "2025-04-16 04:02:58 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "hero_of_the_village": "2025-04-16 04:14:15 +0000"
+      "voluntary_exile": "2025-04-16 04:05:48 +0000"
     },
     "done": true
   },
@@ -2613,9 +2613,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/ambush": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "coded_trigger": "2025-04-16 04:02:58 +0000"
+      "hero_of_the_village": "2025-04-16 04:14:15 +0000"
     },
     "done": true
   },

@@ -202,3 +202,16 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [16Apr2025 15:48:17.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
 [16Apr2025 15:49:51.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Not of Chocolate]
 [16Apr2025 15:50:47.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Quickly Applied]
+[16Apr2025 16:05:47.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [First Prayer]
+[16Apr2025 16:07:03.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Bound Forever]
+[16Apr2025 16:08:54.563] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[16Apr2025 16:08:54.564] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[16Apr2025 16:12:59.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.155.88.47:35829] logged in with entity id 16341 at (-1913.81015631144, 63.0, 2527.5242308791485)
+[16Apr2025 16:12:59.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[16Apr2025 16:13:01.761] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[16Apr2025 16:13:01.761] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[16Apr2025 16:13:11.104] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[16Apr2025 16:13:12.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[16Apr2025 16:13:12.112] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[16Apr2025 16:14:47.109] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[16Apr2025 16:14:47.142] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
