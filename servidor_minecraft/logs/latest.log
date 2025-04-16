@@ -197,3 +197,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [16Apr2025 20:53:36.127] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
 [16Apr2025 20:53:46.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster blew up
 [16Apr2025 21:10:35.616] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/35440, l='ServerLevel[world]', x=-1181.30, y=66.00, z=2393.55] died, message: 'Armorer burned to death'
+[16Apr2025 21:16:55.138] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=148, y=58, z=18}
+[16Apr2025 21:21:31.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[16Apr2025 21:21:31.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[16Apr2025 21:21:31.525] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
