@@ -196,3 +196,4 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [16Apr2025 20:53:36.124] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
 [16Apr2025 20:53:36.127] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
 [16Apr2025 20:53:46.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster blew up
+[16Apr2025 21:10:35.616] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/35440, l='ServerLevel[world]', x=-1181.30, y=66.00, z=2393.55] died, message: 'Armorer burned to death'

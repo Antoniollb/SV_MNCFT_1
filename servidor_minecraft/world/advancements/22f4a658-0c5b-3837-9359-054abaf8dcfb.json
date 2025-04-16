@@ -239,6 +239,7 @@
       "minecraft:zombified_piglin": "2025-04-03 05:43:09 +0000",
       "minecraft:witch": "2025-03-31 04:07:23 +0000",
       "minecraft:wither_skeleton": "2025-04-15 15:58:06 +0000",
+      "minecraft:husk": "2025-04-16 21:05:41 +0000",
       "minecraft:cave_spider": "2025-03-24 02:42:22 +0000",
       "minecraft:piglin": "2025-04-15 15:24:37 +0000",
       "minecraft:enderman": "2025-03-25 02:36:35 +0000",
@@ -4776,6 +4777,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_cut_red_sandstone": "2025-04-16 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-04-16 21:12:13 +0000"
     },
     "done": true
   },
