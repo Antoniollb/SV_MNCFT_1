@@ -4454,33 +4454,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-04-15 16:07:16 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_mercy": {
-    "criteria": {
-      "has_magic_scroll": "2025-04-15 15:47:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-04-15 14:47:11 +0000"
     },
     "done": true
   },
-  "dungeons_enhanced:spooky_scary_citadel": {
+  "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
-      "entered_black_citadel": "2025-04-15 15:35:49 +0000"
+      "has_rabbit": "2025-04-15 15:04:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_planks": {
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
-      "has_logs": "2025-04-15 15:25:18 +0000"
+      "has_rabbit": "2025-04-15 15:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-04-15 15:04:13 +0000"
     },
     "done": true
   },
@@ -4490,9 +4484,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit": {
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
-      "has_rabbit": "2025-04-15 15:04:13 +0000"
+      "has_warped_fungus": "2025-04-15 15:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-04-15 15:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-15 15:25:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:spooky_scary_citadel": {
+    "criteria": {
+      "entered_black_citadel": "2025-04-15 15:35:49 +0000"
     },
     "done": true
   },
@@ -4508,33 +4520,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2025-04-15 15:04:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-04-15 15:47:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2025-04-15 15:04:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-15 15:39:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-04-15 15:47:10 +0000"
     },
     "done": true
   },
@@ -4556,12 +4544,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-04-15 15:25:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-15 15:39:44 +0000"
@@ -4580,9 +4562,9 @@
     },
     "done": true
   },
-  "minecraft:nether/fast_travel": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "travelled": "2025-04-15 16:14:52 +0000"
+      "fortress": "2025-04-15 15:45:38 +0000"
     },
     "done": true
   },
@@ -4592,9 +4574,33 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
-      "fortress": "2025-04-15 15:45:38 +0000"
+      "has_nether_wart": "2025-04-15 15:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-04-15 15:47:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_mercy": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-15 15:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-04-15 16:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-04-15 16:14:52 +0000"
     },
     "done": true
   },
@@ -4604,9 +4610,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+  "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
-      "has_warped_fungus": "2025-04-15 15:23:27 +0000"
+      "has_planks": "2025-04-16 15:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-04-16 15:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-04-16 15:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-04-16 15:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-16 15:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-16 15:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-16 15:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-16 15:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-16 15:15:56 +0000"
     },
     "done": true
   },
