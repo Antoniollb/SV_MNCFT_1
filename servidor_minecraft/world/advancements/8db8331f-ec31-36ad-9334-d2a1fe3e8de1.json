@@ -600,6 +600,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-04-15 15:58:55 +0000",
+      "minecraft:pillager": "2025-04-16 04:02:58 +0000",
       "minecraft:skeleton": "2025-04-05 03:24:29 +0000",
       "minecraft:spider": "2025-04-05 03:42:55 +0000",
       "minecraft:creeper": "2025-04-10 03:44:52 +0000",
@@ -2584,6 +2585,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-04-15 15:57:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-16 04:02:58 +0000"
     },
     "done": true
   },
