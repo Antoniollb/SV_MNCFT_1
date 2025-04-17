@@ -6060,5 +6060,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_frost_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-17 02:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-17 02:40:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

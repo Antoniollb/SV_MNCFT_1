@@ -198,3 +198,14 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [17Apr2025 02:28:49.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Manuel mandame la ubicacion de la base
 [17Apr2025 02:29:10.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> [name:"PUEBLO", x:-1876, y:62, z:2508, dim:minecraft:overworld]
 [17Apr2025 02:29:21.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[17Apr2025 02:36:24.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Powder Snow Walk]
+[17Apr2025 02:43:00.532] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.187.213.183:52845] logged in with entity id 6798 at (-1900.699999988079, 66.5625, 2523.1725364254853)
+[17Apr2025 02:43:00.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
+[17Apr2025 02:43:02.863] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
+[17Apr2025 02:43:02.864] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[17Apr2025 02:43:12.071] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[17Apr2025 02:43:13.082] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[17Apr2025 02:43:13.083] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[17Apr2025 02:43:41.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the weather to clear
+[17Apr2025 02:44:47.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> vamos a terminal el otro mundo
+[17Apr2025 02:45:05.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Magic Recycling]
