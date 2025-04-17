@@ -6069,6 +6069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-17 02:40:49 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/thorn_rose_to_red": {
     "criteria": {
       "has_item": "2025-04-17 02:57:59 +0000"
@@ -6078,12 +6084,6 @@
   "twilightforest:recipes/building_blocks/castleblock/encased_castle_pillar": {
     "criteria": {
       "has_castle_brick": "2025-04-17 02:59:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-04-17 02:40:49 +0000"
     },
     "done": true
   },
@@ -6126,6 +6126,18 @@
   "twilightforest:recipes/building_blocks/castleblock/thick_castle_brick": {
     "criteria": {
       "has_castle_brick": "2025-04-17 02:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 03:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 03:55:39 +0000"
     },
     "done": true
   },

@@ -298,3 +298,27 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [17Apr2025 03:45:31.447] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
 [17Apr2025 03:45:35.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio froze to death
 [17Apr2025 03:45:35.448] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[17Apr2025 03:49:21.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.28.127.113:54509] logged in with entity id 21284 at (-14861.098131225677, 7.0, 20108.884657906525)
+[17Apr2025 03:49:21.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
+[17Apr2025 03:49:22.631] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
+[17Apr2025 03:49:22.631] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[17Apr2025 03:49:29.688] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[17Apr2025 03:49:30.692] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[17Apr2025 03:49:30.692] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[17Apr2025 03:49:56.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Ya se fueron
+[17Apr2025 03:50:02.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Ya fueron al castillo
+[17Apr2025 03:50:07.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> hace rato
+[17Apr2025 03:51:56.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Ohh y donde estan?
+[17Apr2025 03:52:17.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2696ms or 53 ticks behind
+[17Apr2025 03:52:26.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to DavidMaster]
+[17Apr2025 03:52:29.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> accep
+[17Apr2025 03:53:06.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Disconnected
+[17Apr2025 03:53:06.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
+[17Apr2025 03:53:06.503] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
+[17Apr2025 03:53:13.817] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.187.213.183:57573] logged in with entity id 22909 at (-1829.4889558912012, 63.0, 2517.4532331572786)
+[17Apr2025 03:53:13.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[17Apr2025 03:53:14.116] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[17Apr2025 03:53:14.116] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[17Apr2025 03:53:18.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[17Apr2025 03:53:19.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[17Apr2025 03:53:19.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
