@@ -209,3 +209,40 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [17Apr2025 02:43:41.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the weather to clear
 [17Apr2025 02:44:47.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> vamos a terminal el otro mundo
 [17Apr2025 02:45:05.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Magic Recycling]
+[17Apr2025 02:45:54.743] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[17Apr2025 02:45:54.763] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[17Apr2025 02:45:57.453] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[17Apr2025 02:45:57.456] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[17Apr2025 02:46:00.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio froze to death
+[17Apr2025 02:46:00.466] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[17Apr2025 02:49:10.461] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Timed out
+[17Apr2025 02:49:10.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[17Apr2025 02:49:10.470] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[17Apr2025 02:49:10.520] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Apr2025 02:49:34.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.155.88.47:46301] logged in with entity id 9445 at (-14855.820050975906, 7.0, 20117.365596055522)
+[17Apr2025 02:49:34.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[17Apr2025 02:49:35.096] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[17Apr2025 02:49:35.097] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[17Apr2025 02:49:41.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[17Apr2025 02:49:42.917] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[17Apr2025 02:49:42.917] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[17Apr2025 02:50:47.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> aque hora llegan
+[17Apr2025 02:51:28.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> accept
+[17Apr2025 02:52:02.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> haz tp antonio
+[17Apr2025 02:52:08.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> jajaja
+[17Apr2025 02:52:08.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[17Apr2025 02:52:08.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[17Apr2025 02:52:08.854] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
+[17Apr2025 02:52:15.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> no
+[17Apr2025 02:54:14.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14799, y=51, z=20561} BlockPos{x=-14799, y=51, z=20562}
+[17Apr2025 02:54:15.031] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14799, y=51, z=20561} BlockPos{x=-14799, y=51, z=20562}
+[17Apr2025 02:54:15.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14799, y=51, z=20561} BlockPos{x=-14799, y=51, z=20562}
+[17Apr2025 02:54:15.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14799, y=49, z=20561} BlockPos{x=-14799, y=51, z=20562}
+[17Apr2025 02:54:15.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14799, y=48, z=20561} BlockPos{x=-14799, y=48, z=20562}
+[17Apr2025 02:55:02.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14798, y=54, z=20582} BlockPos{x=-14798, y=55, z=20583}
+[17Apr2025 02:55:08.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14797, y=55, z=20584} BlockPos{x=-14797, y=53, z=20584}
+[17Apr2025 02:55:08.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14797, y=54, z=20585} BlockPos{x=-14797, y=53, z=20584}
+[17Apr2025 02:55:08.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14797, y=54, z=20585} BlockPos{x=-14797, y=53, z=20584}
+[17Apr2025 02:55:08.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14797, y=54, z=20585} BlockPos{x=-14797, y=53, z=20584}
+[17Apr2025 02:55:25.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14797, y=55, z=20593} BlockPos{x=-14797, y=55, z=20595}
+[17Apr2025 02:55:34.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14798, y=53, z=20595} BlockPos{x=-14798, y=52, z=20597}
