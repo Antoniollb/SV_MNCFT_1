@@ -4997,9 +4997,10 @@
   },
   "twilightforest:progression_end": {
     "criteria": {
-      "previous_progression": "2025-04-14 05:30:20 +0000"
+      "previous_progression": "2025-04-14 05:30:20 +0000",
+      "plateau": "2025-04-17 03:04:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {

@@ -5733,9 +5733,10 @@
   },
   "twilightforest:progression_end": {
     "criteria": {
-      "previous_progression": "2025-04-14 05:23:09 +0000"
+      "previous_progression": "2025-04-14 05:23:09 +0000",
+      "plateau": "2025-04-17 03:04:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
