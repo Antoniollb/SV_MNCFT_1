@@ -33,6 +33,7 @@
       "minecraft:forest": "2025-03-22 04:18:33 +0000",
       "minecraft:lush_caves": "2025-04-06 05:52:01 +0000",
       "minecraft:deep_cold_ocean": "2025-04-06 05:19:59 +0000",
+      "minecraft:ice_spikes": "2025-04-17 04:24:21 +0000",
       "minecraft:frozen_ocean": "2025-03-22 06:07:47 +0000",
       "minecraft:desert": "2025-04-16 20:41:44 +0000",
       "minecraft:ocean": "2025-04-06 05:25:35 +0000",
@@ -234,6 +235,7 @@
       "minecraft:magma_cube": "2025-04-14 20:54:10 +0000",
       "minecraft:spider": "2025-03-22 04:25:34 +0000",
       "minecraft:creeper": "2025-03-23 21:45:37 +0000",
+      "minecraft:wither": "2025-04-17 04:44:12 +0000",
       "minecraft:evoker": "2025-03-27 03:29:30 +0000",
       "minecraft:phantom": "2025-03-30 22:40:48 +0000",
       "minecraft:zombified_piglin": "2025-04-03 05:43:09 +0000",
@@ -4936,9 +4938,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 04:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-04-17 04:44:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2025-04-17 03:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-04-17 04:39:35 +0000"
     },
     "done": true
   },

@@ -31,6 +31,7 @@
       "minecraft:forest": "2025-03-20 14:30:48 +0000",
       "minecraft:lush_caves": "2025-04-06 05:51:32 +0000",
       "minecraft:deep_cold_ocean": "2025-03-27 02:09:38 +0000",
+      "minecraft:ice_spikes": "2025-04-17 04:24:14 +0000",
       "minecraft:frozen_ocean": "2025-03-21 16:22:01 +0000",
       "minecraft:desert": "2025-03-25 04:09:42 +0000",
       "minecraft:windswept_forest": "2025-03-25 03:41:28 +0000",
@@ -6135,9 +6136,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-04-17 04:46:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-04-17 03:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-04-17 04:39:35 +0000"
     },
     "done": true
   },

@@ -13,9 +13,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-04-17 04:25:12 +0000",
+      "minecraft:frozen_river": "2025-04-17 04:19:14 +0000",
       "minecraft:river": "2025-04-05 03:25:47 +0000",
+      "minecraft:snowy_plains": "2025-04-17 04:18:09 +0000",
       "minecraft:dripstone_caves": "2025-04-05 03:44:03 +0000",
+      "minecraft:snowy_taiga": "2025-04-17 04:17:04 +0000",
       "minecraft:forest": "2025-04-05 03:00:56 +0000",
+      "minecraft:ice_spikes": "2025-04-17 04:24:11 +0000",
       "minecraft:deep_dark": "2025-04-14 02:14:29 +0000",
       "minecraft:savanna": "2025-04-05 02:57:01 +0000",
       "minecraft:plains": "2025-04-05 02:59:59 +0000"
@@ -200,7 +205,8 @@
     "criteria": {
       "entered_tower_of_the_undead": "2025-04-06 02:44:34 +0000",
       "entered_deep_crypt": "2025-04-14 02:14:29 +0000",
-      "entered_large_dungeon": "2025-04-05 03:01:02 +0000"
+      "entered_large_dungeon": "2025-04-05 03:01:02 +0000",
+      "entered_ruined_building": "2025-04-17 04:27:01 +0000"
     },
     "done": false
   },
@@ -2626,15 +2632,33 @@
     },
     "done": true
   },
+  "twilightforest:hill3": {
+    "criteria": {
+      "redcap": "2025-04-17 03:40:44 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_magic_impregnation": {
     "criteria": {
       "coded_trigger": "2025-04-17 03:58:53 +0000"
     },
     "done": true
   },
-  "twilightforest:hill3": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "redcap": "2025-04-17 03:40:44 +0000"
+      "has_snowball": "2025-04-17 04:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-17 04:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-04-17 04:39:35 +0000"
     },
     "done": true
   },

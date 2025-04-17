@@ -33,6 +33,7 @@
       "minecraft:cold_ocean": "2025-03-22 21:32:06 +0000",
       "minecraft:forest": "2025-03-20 14:30:51 +0000",
       "minecraft:lush_caves": "2025-04-06 05:51:02 +0000",
+      "minecraft:ice_spikes": "2025-04-17 04:24:14 +0000",
       "minecraft:frozen_ocean": "2025-03-21 16:21:16 +0000",
       "minecraft:desert": "2025-04-06 23:32:11 +0000",
       "minecraft:jungle": "2025-03-23 16:16:17 +0000",
@@ -5180,6 +5181,24 @@
   "tombstone:adventure/revive_familiar": {
     "criteria": {
       "coded_trigger": "2025-04-16 16:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-04-17 04:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-04-17 04:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-04-17 04:08:35 +0000"
     },
     "done": true
   },
