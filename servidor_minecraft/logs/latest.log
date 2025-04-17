@@ -405,3 +405,25 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [17Apr2025 04:56:38.099] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
 [17Apr2025 04:56:42.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio froze to death
 [17Apr2025 04:56:42.098] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[17Apr2025 04:57:39.095] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[17Apr2025 04:57:39.097] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[17Apr2025 04:57:41.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster froze to death
+[17Apr2025 04:57:41.101] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[17Apr2025 04:57:58.115] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[17Apr2025 04:57:58.116] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[17Apr2025 04:58:13.096] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[17Apr2025 04:58:13.097] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[17Apr2025 04:58:15.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio froze to death
+[17Apr2025 04:58:15.100] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[17Apr2025 04:58:17.296] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[17Apr2025 04:58:17.298] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[17Apr2025 04:58:38.746] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/35809, l='ServerLevel[world]', x=-9411.11, y=66.00, z=-4668.51] died, message: 'Fletcher was slain by Zombie'
+[17Apr2025 05:01:14.098] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[17Apr2025 05:01:14.100] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[17Apr2025 05:01:54.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
+[17Apr2025 05:02:22.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to Antonio]
+[17Apr2025 05:05:04.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> hablamos mañana
+[17Apr2025 05:05:07.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Disconnected
+[17Apr2025 05:05:07.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[17Apr2025 05:05:07.503] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[17Apr2025 05:05:13.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> bye
