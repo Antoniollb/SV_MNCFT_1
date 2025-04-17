@@ -246,3 +246,20 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [17Apr2025 02:55:08.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14797, y=54, z=20585} BlockPos{x=-14797, y=53, z=20584}
 [17Apr2025 02:55:25.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14797, y=55, z=20593} BlockPos{x=-14797, y=55, z=20595}
 [17Apr2025 02:55:34.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14798, y=53, z=20595} BlockPos{x=-14798, y=52, z=20597}
+[17Apr2025 02:55:58.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14799, y=56, z=20610} BlockPos{x=-14799, y=56, z=20613}
+[17Apr2025 02:55:58.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14799, y=56, z=20610} BlockPos{x=-14799, y=56, z=20613}
+[17Apr2025 02:56:36.442] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[17Apr2025 02:56:36.444] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[17Apr2025 02:57:22.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Disconnected
+[17Apr2025 02:57:22.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[17Apr2025 02:57:22.942] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[17Apr2025 02:57:30.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14800, y=54, z=20628} BlockPos{x=-14800, y=53, z=20630}
+[17Apr2025 02:57:30.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14800, y=54, z=20628} BlockPos{x=-14800, y=53, z=20630}
+[17Apr2025 02:57:30.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14800, y=54, z=20628} BlockPos{x=-14800, y=53, z=20630}
+[17Apr2025 02:57:38.302] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.155.88.47:40313] logged in with entity id 12026 at (-14800.155530779866, 53.0, 20646.179583613604)
+[17Apr2025 02:57:38.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[17Apr2025 02:57:38.701] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[17Apr2025 02:57:38.702] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[17Apr2025 02:57:44.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[17Apr2025 02:57:45.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[17Apr2025 02:57:45.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat

@@ -3179,7 +3179,8 @@
       "liveroot": "2025-03-28 01:57:26 +0000",
       "twilight_oak_sapling": "2025-04-05 03:58:01 +0000",
       "giant_log": "2025-04-14 05:16:52 +0000",
-      "twilight_oak_boat": "2025-03-25 03:14:22 +0000"
+      "twilight_oak_boat": "2025-03-25 03:14:22 +0000",
+      "thorn_rose": "2025-04-17 02:57:59 +0000"
     },
     "done": false
   },
@@ -6066,9 +6067,63 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/thorn_rose_to_red": {
+    "criteria": {
+      "has_item": "2025-04-17 02:57:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/encased_castle_pillar": {
+    "criteria": {
+      "has_castle_brick": "2025-04-17 02:59:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-04-17 02:40:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/smelted_cracked_castle_brick": {
+    "criteria": {
+      "has_item": "2025-04-17 02:59:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/bold_castle_brick_tile": {
+    "criteria": {
+      "has_castle_brick": "2025-04-17 02:59:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/bold_castle_brick_pillar": {
+    "criteria": {
+      "has_castle_brick": "2025-04-17 02:59:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/mossy_castle_brick": {
+    "criteria": {
+      "has_item": "2025-04-17 02:59:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/castle_brick_stairs": {
+    "criteria": {
+      "has_item": "2025-04-17 02:59:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/bold_castle_pillar_from_tile": {
+    "criteria": {
+      "has_castle_brick": "2025-04-17 02:59:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/thick_castle_brick": {
+    "criteria": {
+      "has_castle_brick": "2025-04-17 02:59:22 +0000"
     },
     "done": true
   },
