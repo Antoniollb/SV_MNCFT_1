@@ -4936,5 +4936,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-04-17 03:56:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

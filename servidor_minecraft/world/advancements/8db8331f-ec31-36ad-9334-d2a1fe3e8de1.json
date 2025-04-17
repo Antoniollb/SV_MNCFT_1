@@ -2626,6 +2626,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_magic_impregnation": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 03:58:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:hill3": {
     "criteria": {
       "redcap": "2025-04-17 03:40:44 +0000"
