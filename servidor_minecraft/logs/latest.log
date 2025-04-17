@@ -263,3 +263,16 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [17Apr2025 02:57:44.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
 [17Apr2025 02:57:45.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
 [17Apr2025 02:57:45.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[17Apr2025 03:16:21.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to Antonio]
+[17Apr2025 03:16:30.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported MATTBXB to Antonio]
+[17Apr2025 03:16:39.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Timed out
+[17Apr2025 03:16:39.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[17Apr2025 03:16:39.545] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[17Apr2025 03:16:56.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.155.88.47:32807] logged in with entity id 13060 at (-15010.5, 7.0, 18650.5)
+[17Apr2025 03:16:56.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[17Apr2025 03:16:56.915] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[17Apr2025 03:16:56.915] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[17Apr2025 03:17:03.455] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[17Apr2025 03:17:04.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[17Apr2025 03:17:04.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[17Apr2025 03:18:24.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Jack and the Beanstalk]

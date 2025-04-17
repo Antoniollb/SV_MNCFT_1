@@ -5624,9 +5624,10 @@
   },
   "twilightforest:beanstalk": {
     "criteria": {
-      "beans": "2025-04-14 05:03:18 +0000"
+      "beans": "2025-04-14 05:03:18 +0000",
+      "use_beans": "2025-04-17 03:18:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:giants": {
     "criteria": {
