@@ -278,3 +278,23 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [17Apr2025 03:18:24.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Jack and the Beanstalk]
 [17Apr2025 03:31:33.448] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
 [17Apr2025 03:31:33.449] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[17Apr2025 03:36:15.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Disconnected
+[17Apr2025 03:36:15.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[17Apr2025 03:36:15.097] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[17Apr2025 03:36:30.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.155.88.47:42423] logged in with entity id 17924 at (-15110.699999988079, -6.0, 18663.698415735555)
+[17Apr2025 03:36:30.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[17Apr2025 03:36:31.060] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[17Apr2025 03:36:31.061] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[17Apr2025 03:36:37.478] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[17Apr2025 03:36:38.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[17Apr2025 03:36:38.478] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[17Apr2025 03:36:55.514] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[17Apr2025 03:36:56.452] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[17Apr2025 03:36:56.454] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[17Apr2025 03:37:02.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> ayudaa
+[17Apr2025 03:40:44.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [I See Right Through You]
+[17Apr2025 03:43:09.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> sal
+[17Apr2025 03:45:31.445] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[17Apr2025 03:45:31.447] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[17Apr2025 03:45:35.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio froze to death
+[17Apr2025 03:45:35.448] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
