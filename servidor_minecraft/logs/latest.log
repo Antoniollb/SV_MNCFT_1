@@ -343,3 +343,9 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [18Apr2025 03:34:26.019] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
 [18Apr2025 03:35:14.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported Antonio to MATTBXB]
 [18Apr2025 03:35:26.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to DavidMaster]
+[18Apr2025 03:37:53.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to DavidMaster]
+[18Apr2025 03:42:01.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [The City at the End of the Game]
+[18Apr2025 03:43:32.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [The City at the End of the Game]
+[18Apr2025 03:43:35.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [The City at the End of the Game]
+[18Apr2025 03:43:38.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [The City at the End of the Game]
+[18Apr2025 03:46:53.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Sky's the Limit]

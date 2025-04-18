@@ -614,6 +614,7 @@
       "minecraft:creeper": "2025-04-10 03:44:52 +0000",
       "minecraft:witch": "2025-04-16 04:07:48 +0000",
       "minecraft:ender_dragon": "2025-04-18 03:09:05 +0000",
+      "minecraft:shulker": "2025-04-18 03:44:40 +0000",
       "minecraft:cave_spider": "2025-04-05 04:07:20 +0000",
       "minecraft:silverfish": "2025-04-10 03:47:54 +0000",
       "minecraft:enderman": "2025-04-14 03:56:28 +0000",
@@ -2697,6 +2698,12 @@
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2025-04-18 03:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-18 03:43:38 +0000"
     },
     "done": true
   },
