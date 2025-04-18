@@ -286,3 +286,60 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [18Apr2025 03:26:57.180] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
 [18Apr2025 03:26:58.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
 [18Apr2025 03:26:58.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[18Apr2025 03:28:04.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff was kicked for floating too long!
+[18Apr2025 03:28:04.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Flying is not enabled on this server
+[18Apr2025 03:28:04.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[18Apr2025 03:28:04.681] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[18Apr2025 03:28:21.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> hazme tp antonio
+[18Apr2025 03:28:31.234] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c5e0456[id=<null>,name=mastercheeffff,properties={},legacy=false] (/127.155.88.47:43659) lost connection: Disconnected
+[18Apr2025 03:28:33.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> TIENES TU COSAS
+[18Apr2025 03:28:34.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
+[18Apr2025 03:28:39.339] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.155.88.47:47061] logged in with entity id 15733 at (-820.7346465487658, -106.29717982089659, -704.0759560858876)
+[18Apr2025 03:28:39.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[18Apr2025 03:28:39.609] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[18Apr2025 03:28:39.610] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[18Apr2025 03:28:40.381] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[18Apr2025 03:28:40.382] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[18Apr2025 03:28:42.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff fell out of the world
+[18Apr2025 03:28:42.393] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[18Apr2025 03:28:43.544] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[18Apr2025 03:28:43.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff moved too quickly! 0.0,-22.394835027279555,0.0
+[18Apr2025 03:28:44.546] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[18Apr2025 03:28:44.546] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[18Apr2025 03:28:56.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to Antonio]
+[18Apr2025 03:29:32.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> tp
+[18Apr2025 03:29:32.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to Antonio]
+[18Apr2025 03:32:15.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff was kicked for floating too long!
+[18Apr2025 03:32:15.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Flying is not enabled on this server
+[18Apr2025 03:32:15.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[18Apr2025 03:32:15.432] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[18Apr2025 03:32:27.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.155.88.47:54695] logged in with entity id 16864 at (-891.0764740162401, -105.22907024063466, -580.872969282652)
+[18Apr2025 03:32:27.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[18Apr2025 03:32:27.305] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[18Apr2025 03:32:27.306] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[18Apr2025 03:32:28.584] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[18Apr2025 03:32:28.585] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[18Apr2025 03:32:30.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff fell out of the world
+[18Apr2025 03:32:30.590] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[18Apr2025 03:32:31.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[18Apr2025 03:32:31.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff moved too quickly! 0.0,-22.542526454053615,0.0
+[18Apr2025 03:32:32.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[18Apr2025 03:32:32.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[18Apr2025 03:33:05.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio was kicked for floating too long!
+[18Apr2025 03:33:05.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Flying is not enabled on this server
+[18Apr2025 03:33:05.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[18Apr2025 03:33:05.644] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[18Apr2025 03:33:49.695] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1388a22[id=<null>,name=Antonio,properties={},legacy=false] (/127.187.213.183:39645) lost connection: Disconnected
+[18Apr2025 03:34:19.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.187.213.183:52039] logged in with entity id 18051 at (-1097.3792913970674, -75.83982876533938, -460.48409859238694)
+[18Apr2025 03:34:19.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
+[18Apr2025 03:34:19.792] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
+[18Apr2025 03:34:19.793] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[18Apr2025 03:34:21.592] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[18Apr2025 03:34:21.594] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[18Apr2025 03:34:23.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio fell out of the world
+[18Apr2025 03:34:23.602] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[18Apr2025 03:34:25.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[18Apr2025 03:34:26.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[18Apr2025 03:34:26.019] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[18Apr2025 03:35:14.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported Antonio to MATTBXB]
+[18Apr2025 03:35:26.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to DavidMaster]
