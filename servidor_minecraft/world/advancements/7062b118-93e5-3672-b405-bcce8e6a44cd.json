@@ -5275,6 +5275,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_assistance": {
+    "criteria": {
+      "coded_trigger": "2025-04-18 04:15:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2025-04-18 03:46:42 +0000"

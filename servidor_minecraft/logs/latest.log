@@ -368,3 +368,13 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [18Apr2025 04:07:29.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> manuel dale derecho
 [18Apr2025 04:07:53.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported Antonio to mastercheeffff]
 [18Apr2025 04:08:05.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to mastercheeffff]
+[18Apr2025 04:10:39.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has completed the challenge [Great View From Up Here]
+[18Apr2025 04:11:21.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Leeroy Is Back]
+[18Apr2025 04:11:36.299] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[18Apr2025 04:11:36.301] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[18Apr2025 04:11:46.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> revivamen
+[18Apr2025 04:11:49.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Sky's the Limit]
+[18Apr2025 04:12:04.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Local Brewery]
+[18Apr2025 04:12:27.981] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[18Apr2025 04:12:27.982] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[18Apr2025 04:15:21.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Leeroy Is Back]
