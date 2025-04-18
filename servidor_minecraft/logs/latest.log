@@ -378,3 +378,13 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [18Apr2025 04:12:27.981] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
 [18Apr2025 04:12:27.982] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
 [18Apr2025 04:15:21.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Leeroy Is Back]
+[18Apr2025 04:21:02.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff moved too quickly! -9.892841771762505,1.9893499858739716,-2.0903172950720545
+[18Apr2025 04:24:22.440] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[18Apr2025 04:28:18.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Bring Home the Beacon]
+[18Apr2025 04:28:18.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Beaconator]
+[18Apr2025 04:28:18.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Bring Home the Beacon]
+[18Apr2025 04:28:18.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Beaconator]
+[18Apr2025 04:28:18.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Bring Home the Beacon]
+[18Apr2025 04:28:18.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Beaconator]
+[18Apr2025 04:28:18.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Bring Home the Beacon]
+[18Apr2025 04:28:18.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Beaconator]
