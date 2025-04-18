@@ -4938,18 +4938,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/strong_undead": {
-    "criteria": {
-      "coded_trigger": "2025-04-17 04:44:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-04-17 04:44:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2025-04-17 03:56:35 +0000"
@@ -4959,6 +4947,18 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-04-17 04:39:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 04:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-04-17 04:44:26 +0000"
     },
     "done": true
   },
