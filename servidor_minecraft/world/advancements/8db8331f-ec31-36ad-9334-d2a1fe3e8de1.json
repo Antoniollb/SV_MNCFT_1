@@ -2689,6 +2689,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-04-18 04:28:18 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_assistance": {
     "criteria": {
       "coded_trigger": "2025-04-18 04:11:21 +0000"
@@ -2713,9 +2719,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-04-18 04:34:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2025-04-18 03:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-18 04:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-04-18 04:28:18 +0000"
     },
     "done": true
   },
