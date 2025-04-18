@@ -243,3 +243,18 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [18Apr2025 03:02:03.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
 [18Apr2025 03:02:54.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [You Need a Mint]
 [18Apr2025 03:03:05.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [To be or not to be]
+[18Apr2025 03:07:27.266] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[18Apr2025 03:07:27.268] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[18Apr2025 03:09:05.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Free the End]
+[18Apr2025 03:09:51.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster was kicked for floating too long!
+[18Apr2025 03:09:51.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Flying is not enabled on this server
+[18Apr2025 03:09:51.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[18Apr2025 03:09:51.540] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
+[18Apr2025 03:10:02.130] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.28.127.113:58073] logged in with entity id 9390 at (-4.896133453574982, 61.785627225202084, 10.668993472746495)
+[18Apr2025 03:10:02.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
+[18Apr2025 03:10:02.421] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
+[18Apr2025 03:10:02.421] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[18Apr2025 03:10:05.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[18Apr2025 03:10:06.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[18Apr2025 03:10:06.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[18Apr2025 03:13:20.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> ACCEPT
