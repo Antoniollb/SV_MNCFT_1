@@ -349,3 +349,22 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [18Apr2025 03:43:35.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [The City at the End of the Game]
 [18Apr2025 03:43:38.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [The City at the End of the Game]
 [18Apr2025 03:46:53.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Sky's the Limit]
+[18Apr2025 03:49:25.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Sky's the Limit]
+[18Apr2025 03:55:02.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported Antonio to MATTBXB]
+[18Apr2025 03:55:15.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to MATTBXB]
+[18Apr2025 03:55:40.381] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[18Apr2025 03:55:40.383] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[18Apr2025 03:55:56.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> encontre otro
+[18Apr2025 03:56:34.080] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[18Apr2025 03:56:34.085] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[18Apr2025 03:57:02.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> vienene?
+[18Apr2025 04:01:54.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Encontrastea algo
+[18Apr2025 04:02:04.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> mira el chat
+[18Apr2025 04:03:22.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> vienen o no
+[18Apr2025 04:03:39.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> hasme tp
+[18Apr2025 04:03:59.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> manuel y zabiel seguiran buscando
+[18Apr2025 04:04:12.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
+[18Apr2025 04:06:30.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Sky's the Limit]
+[18Apr2025 04:07:29.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> manuel dale derecho
+[18Apr2025 04:07:53.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported Antonio to mastercheeffff]
+[18Apr2025 04:08:05.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to mastercheeffff]
