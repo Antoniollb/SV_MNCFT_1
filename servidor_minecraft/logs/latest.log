@@ -258,3 +258,31 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [18Apr2025 03:10:06.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
 [18Apr2025 03:10:06.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
 [18Apr2025 03:13:20.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> ACCEPT
+[18Apr2025 03:18:05.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported MATTBXB to Antonio]
+[18Apr2025 03:18:19.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> vienen o no ?
+[18Apr2025 03:18:24.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> claro
+[18Apr2025 03:18:31.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to MATTBXB]
+[18Apr2025 03:19:21.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved too quickly! 9546.178749151666,-32.53584062504456,4620.3975554542285
+[18Apr2025 03:20:58.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> dodnde estan
+[18Apr2025 03:21:20.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Remote Getaway]
+[18Apr2025 03:21:23.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Remote Getaway]
+[18Apr2025 03:21:29.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Remote Getaway]
+[18Apr2025 03:22:20.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> ACC
+[18Apr2025 03:22:32.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> antonio dame tp
+[18Apr2025 03:23:28.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to DavidMaster]
+[18Apr2025 03:25:21.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio moved wrongly!
+[18Apr2025 03:25:36.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio moved wrongly!
+[18Apr2025 03:26:16.518] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[18Apr2025 03:26:16.520] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[18Apr2025 03:26:25.083] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[18Apr2025 03:26:25.085] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[18Apr2025 03:26:41.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Disconnected
+[18Apr2025 03:26:41.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[18Apr2025 03:26:41.131] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[18Apr2025 03:26:52.338] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.155.88.47:45891] logged in with entity id 15377 at (-653.3524794472373, 58.0, -742.794119301875)
+[18Apr2025 03:26:52.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[18Apr2025 03:26:52.619] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[18Apr2025 03:26:52.620] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[18Apr2025 03:26:57.180] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[18Apr2025 03:26:58.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[18Apr2025 03:26:58.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
