@@ -210,3 +210,36 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [18Apr2025 02:53:34.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster froze to death
 [18Apr2025 02:53:34.155] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
 [18Apr2025 02:56:36.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has completed the challenge [Soul Eater]
+[18Apr2025 02:58:56.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to Antonio]
+[18Apr2025 02:59:07.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to MATTBXB]
+[18Apr2025 02:59:17.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
+[18Apr2025 02:59:30.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported MATTBXB to Antonio]
+[18Apr2025 02:59:32.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> teletraporteme ya
+[18Apr2025 03:00:28.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to DavidMaster]
+[18Apr2025 03:01:26.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [The End?]
+[18Apr2025 03:01:27.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [The End?]
+[18Apr2025 03:01:27.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [The End?]
+[18Apr2025 03:01:27.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [The End?]
+[18Apr2025 03:01:27.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster moved too quickly! 9544.800000011921,-32.0,4620.124871789027
+[18Apr2025 03:01:30.481] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[18Apr2025 03:01:30.481] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[18Apr2025 03:01:31.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3993ms or 79 ticks behind
+[18Apr2025 03:01:42.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio was kicked for floating too long!
+[18Apr2025 03:01:42.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Disconnected
+[18Apr2025 03:01:42.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[18Apr2025 03:01:42.334] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[18Apr2025 03:01:42.385] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Apr2025 03:01:56.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.187.213.183:46075] logged in with entity id 6576 at (85.15020288471021, -184.47292563352798, -6.484602780299544)
+[18Apr2025 03:01:56.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
+[18Apr2025 03:01:57.080] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
+[18Apr2025 03:01:57.080] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[18Apr2025 03:01:57.381] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[18Apr2025 03:01:57.383] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[18Apr2025 03:01:59.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio fell out of the world
+[18Apr2025 03:01:59.386] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[18Apr2025 03:02:02.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[18Apr2025 03:02:02.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio moved too quickly! 0.0,-22.59425466849703,0.0
+[18Apr2025 03:02:03.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[18Apr2025 03:02:03.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[18Apr2025 03:02:54.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [You Need a Mint]
+[18Apr2025 03:03:05.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [To be or not to be]
